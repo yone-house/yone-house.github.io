@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-09-17T22:04:26.601-04:00","updated":"2025-09-18T10:40:02.701-04:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-09-17T22:04:26.601-04:00","updated":"2025-09-18T10:59:22.641-04:00"}
 ---
 
 I am bad at gardening and keeping plants alive.
@@ -13,3 +13,4 @@ but i will try.
 
 
 ![PXL_20250917_184018351.jpg](/img/user/PXL_20250917_184018351.jpg)
+`$10.99`
