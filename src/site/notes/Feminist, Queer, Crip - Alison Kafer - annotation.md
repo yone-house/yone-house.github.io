@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feminist-queer-crip-alison-kafer-annotation/","created":"2025-09-18T15:22:35.061-04:00","updated":"2025-09-18T15:25:01.202-04:00"}
+{"dg-publish":true,"permalink":"/feminist-queer-crip-alison-kafer-annotation/","created":"2025-09-18T18:50:55.857-04:00","updated":"2025-09-18T15:30:34.485-04:00"}
 ---
 
 

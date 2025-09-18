@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/","created":"2025-09-18T15:23:10.804-04:00","updated":"2025-09-18T15:26:28.431-04:00"}
+{"dg-publish":true,"permalink":"/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/","created":"2025-09-18T18:50:55.781-04:00","updated":"2025-09-18T15:30:34.503-04:00"}
 ---
 
 (University of Arizona, 2006-02-10)
