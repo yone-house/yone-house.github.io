@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-guardians-alexander-chee/","created":"2025-09-18T18:50:55.841-04:00","updated":"2025-09-18T15:30:34.499-04:00"}
+{"dg-publish":true,"permalink":"/the-guardians-alexander-chee/","created":"2025-09-18T18:50:55.841-04:00","updated":"2025-09-19T17:36:37.707-04:00"}
 ---
 
 # The Guardians
@@ -244,43 +244,42 @@ And then there was the one who’d left me the fragments of that novel like a tr
 
 I had written a novel that, after it was published, let me practice saying what I remembered out loud for years until the day I could remember all of it. Until I could be the person who could stand it. The person who wrote that novel, he was waiting for me.
 
-[^1]: I almost can't read this whole passage anymore--it describes something with detail I still never want to know. 
+[^1]: Xxxxxx
 
-[^2]: This is a very relatable feeling--a body and mind going through all the motions, while I hibernate or something. I don't even watch. If I do, it is definitely not close enough to remember. 
+[^2]: Xxxxx
 
 [^3]: This has been happening more frequently lately. 
 
-[^4]: I have a child's reasoning frequently, I feel. I felt it yesterday on the phone, when I was angry with Sakae for going to the party. I feel that most times I am angry that is what's going on. 
+[^4]: Xxxxxxxxxx
 
-[^5]: I think this a lot with both of my parents. Was thinking about this exact quote on the drive to NJ on [[2025-08-22\|2025-08-22]], sobbing and driving down past Seeley's Pond. I think I might apply this hope to other people in my life who are "supposed" to care for me, like Sakae. This is not fair to anyone but my parents, and is embarrassing to write. 
+[^5]: Xxxxxxx
 
 [^6]: lol... trying
 
-[^7]: I told someone, I guess 乁⁠(•⁠_⁠•⁠)⁠ㄏ. In maybe the smallest possible font. Feeling like it kinda backfired though. But I truly couldn't think of any other way to do it. I wasn't even really conciously thinking--just blamed it on "depression"
+[^7]: I told someone, I guess 乁⁠(•⁠_⁠•⁠)⁠ㄏ. In maybe the smallest possible font. Xxxx xxx
 
-[^8]: Exactly why I told someone, but it feels like nobody is trying to stop me for any reason other than fear. I just wanted someone to help me stop myself. 
+[^8]: Xxxxxxxxx
 
-[^9]: "it is only endurance,"  and I was/am(?) running out 🙃
+[^9]: Xxxxxx
 
-[^10]: relatable for literally everything I make
+[^10]: Xxxxxxxxxx
 
-[^11]: Same very deeply
+[^11]: Xxxxxxx
 
-[^12]: This never resonated until like ... yesterday. I thought I had been giving attention. But I don't think I *actually* did until I took action by admitting myself (funny wording). Still worried it will end me, & still feel like I'm mistaking pain for myself. 
+[^12]: Xxxxxxx 
 
-[^13]: lol no? the worst thing is laying waste to my whole life by killing myself??
+[^13]: lol no? the worst thing is laying waste to my whole life by ~~killing~~ ~~myself~~??
 
-[^14]: Obaba. How race plays into it. Have many more thoughts on this. 
+[^14]: Xxxxxxxxxxx
 
-[^15]: "power of pure childhood imagination" is an interesting way to put it. idk if i relate to it perfectly, but I like it. 
+[^15]: Xxxxxxx
 
 [^16]: prairie writing 
 
 [^17]: this visual has stuck with me for years, but again, hasn't fully fully resonated until very recently. paint is red and not fully opaque. not spraypaint, but like the texture of it with harder wide-brush edges. 
 
-[^18]: slow creep of deadness......... is probably the most identifiable part of this stuff's connection/blurring into "depression"
+[^18]: Xxxxxxxxxxxxx
 
 [^19]: uh oh!
 
-[^20]: still very interesting form of parts work to me. From [[2025-08-29\|2025-08-29]] notes: 11:57am: reading "The Guardians" was intended to prepare me for therapy--I have to figure out a way to share it with Kal. it did prepare me a little, I'm standing outside of their office for a few minutes in order to think about what I need to say in the next 50 minutes. Craigslist, etc., Juan's relation to it, searching for someone through doing it. Searching for someone, trying to be someone, trying to relate to them. Doing a bad job of guarding them. ==How do I guard them currently, as Alex describes in the essay? i.e. as "guardians" being whole past selves and actions, not just parts==. also, this is end of [[2025-08-30\|2025-08-30]] notes, 09:37am
-
+[^20]: Xxxxxxxxx

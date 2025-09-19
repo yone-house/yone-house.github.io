@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ginkgo-graphics/","created":"2025-09-18T18:50:55.697-04:00","updated":"2025-09-19T11:29:22.109-04:00"}
+{"dg-publish":true,"permalink":"/ginkgo-graphics/","created":"2025-09-18T18:50:55.697-04:00","updated":"2025-09-19T17:09:18.424-04:00"}
 ---
 
 
