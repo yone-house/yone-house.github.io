@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T18:50:55.737-04:00","updated":"2025-09-21T11:08:52.970-04:00"}
+{"dg-publish":true,"permalink":"/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T15:23:10.785-04:00","updated":"2025-09-21T11:09:30.819-04:00"}
 ---
 
 
