@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/images-gardenring/ginkgo-graphics/","created":"2025-09-18T11:34:33.267-04:00","updated":"2025-09-21T12:00:15.049-04:00"}
+{"dg-publish":true,"permalink":"/images-gardenring/ginkgo-graphics/"}
 ---
 
+# Ginkgo Graphics
 
 > [!NOTE]
 > ![PXL_20250917_184018351.jpg](/img/user/Images%20Gardenring/ginkgo%20graphics%20attachments/PXL_20250917_184018351.jpg)

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/annotations-gardenring/feminist-queer-crip-alison-kafer-annotation/","created":"2025-09-18T15:22:35.061-04:00","updated":"2025-09-21T12:01:05.670-04:00"}
+{"dg-publish":true,"permalink":"/annotations-gardenring/feminist-queer-crip-alison-kafer-annotation/"}
 ---
 
-
+# Feminist, Queer, Crip - Alison Kafer - annotation
 *exported 2025-09-04*
 
 ---

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/images-gardenring/good-emoji-collabs/","created":"2025-09-21T11:13:55.939-04:00","updated":"2025-09-21T12:00:36.097-04:00"}
+{"dg-publish":true,"permalink":"/images-gardenring/good-emoji-collabs/"}
 ---
 
+# Good Emoji Collabs
 
 found images used in personal messages
 

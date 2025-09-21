@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/texts-gardenring/the-guardians-alexander-chee/","created":"2025-09-18T15:23:10.796-04:00","updated":"2025-09-21T12:01:48.104-04:00"}
+{"dg-publish":true,"permalink":"/texts-gardenring/the-guardians-alexander-chee/"}
 ---
 
-# The Guardians
+# *The Guardians* by Alexander Chee
+From *How to Write an Autobiographical Novel*
 *annotated by me*
 
 ## 1

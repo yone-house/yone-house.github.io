@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/images-gardenring/","created":"2025-09-21T11:21:36.043-04:00","updated":"2025-09-21T11:59:44.572-04:00"}
+{"dg-publish":true,"permalink":"/images-gardenring/"}
 ---
 
 
-## Welcome to the *Images Gardenring*
+# Welcome to the *Images Gardenring*
 
-### [[Images Gardenring/Good Emoji Collabs\|previous page ⇽]]  🖼️  [[Images Gardenring/Ginkgo Graphics\|⇾ next page]]
+## [[Images Gardenring/Good Emoji Collabs\|previous page ⇽]]  🖼️  [[Images Gardenring/Ginkgo Graphics\|⇾ next page]]
 
 ---
-### Directory:
+## Directory:
 - [[Images Gardenring/Ginkgo Graphics\|Ginkgo Graphics]]
 - [[Images Gardenring/Good Emoji Collabs\|Good Emoji Collabs]]

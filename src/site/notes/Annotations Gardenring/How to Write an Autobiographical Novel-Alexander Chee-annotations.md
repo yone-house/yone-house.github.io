@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/annotations-gardenring/how-to-write-an-autobiographical-novel-alexander-chee-annotations/","created":"2025-09-18T15:22:35.070-04:00","updated":"2025-09-21T12:01:21.953-04:00"}
+{"dg-publish":true,"permalink":"/annotations-gardenring/how-to-write-an-autobiographical-novel-alexander-chee-annotations/"}
 ---
 
+# How to Write an Autobiographical Novel-Alexander Chee-annotations
 *exported 2025-08-29*
 
 ---

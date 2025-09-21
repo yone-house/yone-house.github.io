@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/texts-gardenring/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T15:23:10.785-04:00","updated":"2025-09-21T12:01:37.498-04:00"}
+{"dg-publish":true,"permalink":"/texts-gardenring/chee-blue-stoop-8-4-2025-transcript/"}
 ---
 
+# Chee Blue Stoop 8-4-2025 Transcript
 
 All right, hello everyone, thank you so much for joining. Can everyone hear me okay?
 
