@@ -4,9 +4,9 @@
 
 ## Welcome to the *Images Gardenring*
 
-### [[Good Emoji Collabs\|previous page ⇽]]  🖼️  [[Ginkgo Graphics\|⇾ next page]]
+### [[Images Gardenring/Good Emoji Collabs\|previous page ⇽]]  🖼️  [[Images Gardenring/Ginkgo Graphics\|⇾ next page]]
 
 ---
 ### Directory:
-- [[Ginkgo Graphics\|Ginkgo Graphics]]
-- [[Good Emoji Collabs\|Good Emoji Collabs]]
+- [[Images Gardenring/Ginkgo Graphics\|Ginkgo Graphics]]
+- [[Images Gardenring/Good Emoji Collabs\|Good Emoji Collabs]]

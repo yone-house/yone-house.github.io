@@ -3,10 +3,10 @@
 ---
 
 ## Welcome to the *Annotations Gardenring 📑*
-### [[How to Write an Autobiographical Novel-Alexander Chee-annotations\|previous page ⇽]]  📑  [[Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
+### [[Annotations Gardenring/How to Write an Autobiographical Novel-Alexander Chee-annotations\|previous page ⇽]]  📑  [[Annotations Gardenring/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
 
 ---
 
 ### Directory:
-- [[Feminist, Queer, Crip - Alison Kafer - annotation\|Feminist, Queer, Crip - Alison Kafer - annotation]]
-- [[How to Write an Autobiographical Novel-Alexander Chee-annotations\|How to Write an Autobiographical Novel-Alexander Chee-annotations]]
+- [[Annotations Gardenring/Feminist, Queer, Crip - Alison Kafer - annotation\|Feminist, Queer, Crip - Alison Kafer - annotation]]
+- [[Annotations Gardenring/How to Write an Autobiographical Novel-Alexander Chee-annotations\|How to Write an Autobiographical Novel-Alexander Chee-annotations]]
