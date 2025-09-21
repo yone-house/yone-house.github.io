@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ginkgo-graphics/","created":"2025-09-18T18:50:55.697-04:00","updated":"2025-09-19T17:09:18.424-04:00"}
+{"dg-publish":true,"permalink":"/ginkgo-graphics/","created":"2025-09-18T18:50:55.697-04:00","updated":"2025-09-21T11:05:33.526-04:00"}
 ---
 
 
@@ -42,3 +42,7 @@ graphic from amazon.com
 ```
 what is the object on the right also maybe i should try!!
 ```
+
+---
+
+--> [[Good Emoji Collabs\|Good Emoji Collabs]]

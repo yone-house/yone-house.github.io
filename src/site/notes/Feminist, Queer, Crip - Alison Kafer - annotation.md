@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feminist-queer-crip-alison-kafer-annotation/","created":"2025-09-18T18:50:55.857-04:00","updated":"2025-09-18T15:30:34.485-04:00"}
+{"dg-publish":true,"permalink":"/feminist-queer-crip-alison-kafer-annotation/","created":"2025-09-18T18:50:55.857-04:00","updated":"2025-09-21T11:04:54.614-04:00"}
 ---
 
 
@@ -219,3 +219,5 @@ If, as Haraway claims, “cyborgs are the people who refuse to disappear on cue,
 ### 2025-09-03 14:58  |  Page No.: 430
 107. Michelle O'Brien, “Tracing This Body: Transsexuality, Pharmaceuticals, and Capitalism,” deadletters: scattered notes toward the remembering of a misplaced present (Summer 2003): 1–14, accessed June 22, 2010, http://www.deadletters.biz/body.html (site discontinued).
 -------------------
+
+--> [[How to Write an Autobiographical Novel-Alexander Chee-annotations\|How to Write an Autobiographical Novel-Alexander Chee-annotations]]

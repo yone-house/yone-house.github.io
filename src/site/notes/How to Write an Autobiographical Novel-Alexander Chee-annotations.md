@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-write-an-autobiographical-novel-alexander-chee-annotations/","created":"2025-09-18T18:50:55.805-04:00","updated":"2025-09-18T15:30:34.488-04:00"}
+{"dg-publish":true,"permalink":"/how-to-write-an-autobiographical-novel-alexander-chee-annotations/","created":"2025-09-18T18:50:55.805-04:00","updated":"2025-09-21T11:05:16.750-04:00"}
 ---
 
 *exported 2025-08-29*
@@ -245,3 +245,5 @@ More or less you, but not you.
 Or choose a name with the same music.
 
 -------------------
+
+--> [[Feminist, Queer, Crip - Alison Kafer - annotation\|Feminist, Queer, Crip - Alison Kafer - annotation]]

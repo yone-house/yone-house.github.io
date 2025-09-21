@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/","created":"2025-09-18T18:50:55.781-04:00","updated":"2025-09-18T15:30:34.503-04:00"}
+{"dg-publish":true,"permalink":"/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/","created":"2025-09-18T18:50:55.781-04:00","updated":"2025-09-21T11:07:50.826-04:00"}
 ---
 
 (University of Arizona, 2006-02-10)
@@ -205,3 +205,7 @@ And you speak of the difficulties of [INAUDIBLE],, of swearing in your languag
 [LAUGHTER] So I'm sure you can tell that I would be willing to talk to you if-- after you all get up from our chairs and we get away from these microphones, if there are further individual people who want to come up and say something, that can happen. There's also the books at the end of the room people can purchase stuff. So, thank you.
 
 [APPLAUSE]
+
+---
+
+[[The Guardians - Alexander Chee\|The Guardians - Alexander Chee]] <-- | --> [[Chee Blue Stoop 8-4-2025 Transcript\|Chee Blue Stoop 8-4-2025 Transcript]]

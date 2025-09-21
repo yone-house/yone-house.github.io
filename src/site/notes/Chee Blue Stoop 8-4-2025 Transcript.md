@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T18:50:55.737-04:00","updated":"2025-09-19T15:20:33.537-04:00"}
+{"dg-publish":true,"permalink":"/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T18:50:55.737-04:00","updated":"2025-09-21T11:08:52.970-04:00"}
 ---
 
 
@@ -1828,3 +1828,7 @@ They feel all the different safety.
 [^17]: good simple question for interviewing
 
 [^18]: "enter into an interesting place with them together"
+
+---
+
+[[Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)]] <-- | --> [[The Guardians - Alexander Chee\|The Guardians - Alexander Chee]]
