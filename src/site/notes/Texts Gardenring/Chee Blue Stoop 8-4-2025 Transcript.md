@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-gardenring/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T15:23:10.785-04:00","updated":"2025-09-21T11:55:01.984-04:00"}
+{"dg-publish":true,"permalink":"/texts-gardenring/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T15:23:10.785-04:00","updated":"2025-09-21T12:01:37.498-04:00"}
 ---
 
 
@@ -1831,4 +1831,4 @@ They feel all the different safety.
 
 ---
 
-## [[Texts Gardenring/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|previous page ⇽]] | [[Texts Gardenring\|Texts Gardenring]] 📖 | [[Texts Gardenring/The Guardians - Alexander Chee\|⇾ next page]]
+## [[Texts Gardenring/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|previous page ⇽]] | [[Texts Gardenring\|📖]] | [[Texts Gardenring/The Guardians - Alexander Chee\|⇾ next page]]

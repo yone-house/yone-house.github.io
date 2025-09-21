@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/annotations-gardenring/feminist-queer-crip-alison-kafer-annotation/","created":"2025-09-18T15:22:35.061-04:00","updated":"2025-09-21T11:51:26.003-04:00"}
+{"dg-publish":true,"permalink":"/annotations-gardenring/feminist-queer-crip-alison-kafer-annotation/","created":"2025-09-18T15:22:35.061-04:00","updated":"2025-09-21T12:01:05.670-04:00"}
 ---
 
 
@@ -220,4 +220,4 @@ If, as Haraway claims, “cyborgs are the people who refuse to disappear on cue,
 107. Michelle O'Brien, “Tracing This Body: Transsexuality, Pharmaceuticals, and Capitalism,” deadletters: scattered notes toward the remembering of a misplaced present (Summer 2003): 1–14, accessed June 22, 2010, http://www.deadletters.biz/body.html (site discontinued).
 -------------------
 
-## [[Annotations Gardenring\|Annotations Gardenring]] 📑 | [[Annotations Gardenring/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]
+## [[Annotations Gardenring\|📑]] | [[Annotations Gardenring/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]

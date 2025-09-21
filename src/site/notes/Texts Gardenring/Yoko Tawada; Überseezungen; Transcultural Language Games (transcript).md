@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-gardenring/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/","created":"2025-09-18T15:23:10.804-04:00","updated":"2025-09-21T11:55:39.211-04:00"}
+{"dg-publish":true,"permalink":"/texts-gardenring/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/","created":"2025-09-18T15:23:10.804-04:00","updated":"2025-09-21T12:02:05.150-04:00"}
 ---
 
 (University of Arizona, 2006-02-10)
@@ -208,4 +208,4 @@ And you speak of the difficulties of [INAUDIBLE],, of swearing in your languag
 
 ---
 
-## [[Texts Gardenring/The Guardians - Alexander Chee\|previous page ⇽]] | [[Texts Gardenring\|Texts Gardenring]] 📖 | [[Texts Gardenring/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
+## [[Texts Gardenring/The Guardians - Alexander Chee\|previous page ⇽]] | [[Texts Gardenring\|📖]] | [[Texts Gardenring/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
