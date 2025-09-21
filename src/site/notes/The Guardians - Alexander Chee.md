@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-guardians-alexander-chee/","created":"2025-09-18T15:23:10.796-04:00","updated":"2025-09-21T11:46:56.900-04:00"}
+{"dg-publish":true,"permalink":"/the-guardians-alexander-chee/","created":"2025-09-18T15:23:10.796-04:00","updated":"2025-09-21T11:55:26.603-04:00"}
 ---
 
 # The Guardians
@@ -286,4 +286,4 @@ I had written a novel that, after it was published, let me practice saying what 
 
 ---
 
-[[Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] | [[Texts Gardenring\|Texts Gardenring]] 📖 | [[Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
+## [[Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] | [[Texts Gardenring\|Texts Gardenring]] 📖 | [[Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
