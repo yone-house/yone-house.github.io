@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-guardians-alexander-chee/","created":"2025-09-18T15:23:10.796-04:00","updated":"2025-09-21T11:09:30.777-04:00"}
+{"dg-publish":true,"permalink":"/the-guardians-alexander-chee/","created":"2025-09-18T15:23:10.796-04:00","updated":"2025-09-21T11:46:56.900-04:00"}
 ---
 
 # The Guardians
@@ -256,7 +256,7 @@ I had written a novel that, after it was published, let me practice saying what 
 
 [^6]: lol... trying
 
-[^7]: I told someone, I guess 乁⁠(•⁠_⁠•⁠)⁠ㄏ. In maybe the smallest possible font. Xxxx xxx
+[^7]: 乁⁠(•⁠_⁠•⁠)⁠ㄏ In maybe the smallest possible font. Xxxx xxx
 
 [^8]: Xxxxxxxxx
 
@@ -268,7 +268,7 @@ I had written a novel that, after it was published, let me practice saying what 
 
 [^12]: Xxxxxxx 
 
-[^13]: lol no? the worst thing is laying waste to my whole life by ~~killing~~ ~~myself~~??
+[^13]: lol no? the worst thing is laying waste to my whole life by xxxxxxxxxxxxxx
 
 [^14]: Xxxxxxxxxxx
 
@@ -286,4 +286,4 @@ I had written a novel that, after it was published, let me practice saying what 
 
 ---
 
-[[Chee Blue Stoop 8-4-2025 Transcript\|Chee Blue Stoop 8-4-2025 Transcript]]  <-- | --> [[Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)]]
+[[Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] | [[Texts Gardenring\|Texts Gardenring]] 📖 | [[Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]

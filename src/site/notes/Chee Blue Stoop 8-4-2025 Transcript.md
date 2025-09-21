@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T15:23:10.785-04:00","updated":"2025-09-21T11:09:30.819-04:00"}
+{"dg-publish":true,"permalink":"/chee-blue-stoop-8-4-2025-transcript/","created":"2025-09-18T15:23:10.785-04:00","updated":"2025-09-21T11:44:26.150-04:00"}
 ---
 
 
@@ -1831,4 +1831,4 @@ They feel all the different safety.
 
 ---
 
-[[Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)]] <-- | --> [[The Guardians - Alexander Chee\|The Guardians - Alexander Chee]]
+[[Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|previous page ⇽]] | [[Texts Gardenring\|Texts Gardenring]] 📖 | [[The Guardians - Alexander Chee\|⇾ next page]]

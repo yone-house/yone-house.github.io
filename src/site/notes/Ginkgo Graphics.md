@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ginkgo-graphics/","created":"2025-09-18T11:34:33.267-04:00","updated":"2025-09-21T11:21:23.029-04:00"}
+{"dg-publish":true,"permalink":"/ginkgo-graphics/","created":"2025-09-18T11:34:33.267-04:00","updated":"2025-09-21T11:42:31.887-04:00"}
 ---
 
 
@@ -40,4 +40,4 @@
 
 ---
 
-images webring [[Good Emoji Collabs\|⇾ next page]]
+[[Images Gardenring\|Images Gardenring]] 🖼️ | [[Good Emoji Collabs\|⇾ next page]]
