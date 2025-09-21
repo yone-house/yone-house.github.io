@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/good-emoji-collabs/","created":"2025-09-21T11:13:55.939-04:00","updated":"2025-09-21T11:42:48.789-04:00"}
+{"dg-publish":true,"permalink":"/good-emoji-collabs/","created":"2025-09-21T11:13:55.939-04:00","updated":"2025-09-21T11:51:42.608-04:00"}
 ---
 
 
@@ -35,4 +35,4 @@ found images used in personal messages
 
 ---
 
-[[Images Gardenring\|Images Gardenring]] 🖼️ | [[Ginkgo Graphics\|⇾ next page]]
+## [[Images Gardenring\|Images Gardenring]] 🖼️ | [[Ginkgo Graphics\|⇾ next page]]

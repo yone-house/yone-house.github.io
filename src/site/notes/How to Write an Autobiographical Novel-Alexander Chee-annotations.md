@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-write-an-autobiographical-novel-alexander-chee-annotations/","created":"2025-09-18T15:22:35.070-04:00","updated":"2025-09-21T11:42:07.793-04:00"}
+{"dg-publish":true,"permalink":"/how-to-write-an-autobiographical-novel-alexander-chee-annotations/","created":"2025-09-18T15:22:35.070-04:00","updated":"2025-09-21T11:51:03.555-04:00"}
 ---
 
 *exported 2025-08-29*
@@ -246,4 +246,4 @@ Or choose a name with the same music.
 
 -------------------
 
-[[Annotations Gardenring\|Annotations Gardenring]] 📑 | [[Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
+## [[Annotations Gardenring\|Annotations Gardenring]] 📑 | [[Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
