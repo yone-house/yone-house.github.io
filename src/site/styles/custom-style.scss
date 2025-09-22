@@ -29,6 +29,11 @@ a.internal-link{
     font-family: "Xanh Mono", serif !important
 }
 
+@media (max-width: 600px) {
+    a.internal-link{
+        font-size: 14pt !important
+    }
+}
 .footnote a{
     font-size: 12pt !important
 }
