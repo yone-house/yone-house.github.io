@@ -19,13 +19,13 @@ h1, h2, h3, h4, a{
     font-weight: bold
 }
 
-a {
-    font-size: 12pt;
-    color: darkgreen
+a, .external-link a {
+    font-size: 12pt !important;
+    color: darkgreen !important
 }
 
 li {
-    font-size: 14pt !important;
+    font-size: 18pt !important;
     font-family: "Xanh Mono", serif !important
 }
 
