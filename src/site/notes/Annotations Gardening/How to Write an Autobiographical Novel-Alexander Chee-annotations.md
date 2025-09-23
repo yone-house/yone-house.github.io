@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/annotations-gardening/how-to-write-an-autobiographical-novel-alexander-chee-annotations/"}
 ---
 
-## [[Annotations Gardening\|📑]] | [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
+## [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|previous page ⇽]] [[Annotations Gardening\|📑]]  [[Annotations Gardening/The Marrow's Telling_Words in Motion - Eli Clare - annotation\|⇾ next page]]
 ---
 # How to Write an Autobiographical Novel-Alexander Chee-annotations
 *exported 2025-08-29*
@@ -249,4 +249,4 @@ Or choose a name with the same music.
 
 -------------------
 
-## [[Annotations Gardening\|📑]] | [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
+## [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/The Marrow's Telling_Words in Motion - Eli Clare - annotation\|⇾ next page]]

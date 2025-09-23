@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/annotations-gardening/feminist-queer-crip-alison-kafer-annotation/"}
 ---
 
-## [[Annotations Gardening\|📑]] | [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]
+## [[Annotations Gardening/The Marrow's Telling_Words in Motion - Eli Clare - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]
 ---
 # Feminist, Queer, Crip - Alison Kafer - annotation
 *exported 2025-09-04*
@@ -222,4 +222,4 @@ If, as Haraway claims, “cyborgs are the people who refuse to disappear on cue,
 107. Michelle O'Brien, “Tracing This Body: Transsexuality, Pharmaceuticals, and Capitalism,” deadletters: scattered notes toward the remembering of a misplaced present (Summer 2003): 1–14, accessed June 22, 2010, http://www.deadletters.biz/body.html (site discontinued).
 -------------------
 
-## [[Annotations Gardening\|📑]] | [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]
+## [[Annotations Gardening/The Marrow's Telling_Words in Motion - Eli Clare - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]
