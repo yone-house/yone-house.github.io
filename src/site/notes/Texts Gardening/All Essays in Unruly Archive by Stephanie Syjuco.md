@@ -4,8 +4,7 @@
 
 # All Essays in *Unruly Archive* by Stephanie Syjuco
 
-## PDF Version (scanned with phone)
-![[syjuco_unruly_archive_all_essays.pdf]]
+## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)
 
 ## Google OCR version
 
@@ -61,7 +60,7 @@ TXT04.1: MINNE ATAIRU | TXT04.2: PIO ABAD
 **315**  
 ACKNOWLEDGMENTS
 
-INTRODUCTION
+### INTRODUCTION
 
 \[Object Number **2022.24.1]**
 
@@ -178,9 +177,9 @@ It **has** also recently **been** acquired by **the** Smithsonian Museum **of** 
 
 **53**
 
-CARMEN WINANT
+### CARMEN WINANT
 
-***Speak***, archive
+#### ***Speak***, archive
 
 **Carmen** Winant's **practice makes inquiry into feminist histories.** With **a particular interest** in **methods of social network building-and an emphasis** on **multiracial**, **transnational, and intergenerational exchange and inheritance-her work prompts the question: how are feminist coalitions built and what is the larger function of imagination in the process of liberation struggle? Photography operates in Winant's work as both a tool-an expository mechanism that** holds an \*\*idea-\*\*and **a meaningful subject**. **She is interested** in **how revolutionary social** movements **utilize picture**-making **and its dissemination** in **service of information sharing and alliance building**.
 
@@ -216,9 +215,9 @@ Installation view of *Being: New Photography 2018* at The Museum of Modern Art, 
 
 63
 
-ASTRIA SUPARAK
+### ASTRIA SUPARAK
 
-We, the **Aliens** of the Future
+#### We, the **Aliens** of the Future
 
 Astria **Suparak is an artist and curator based in Oakland, California. Her cross- disciplinary projects address complex and urgent issues (like institutionalized racism**, **feminisms and gender, and colonialism**) **made accessible through a popular culture lens,** such **as science fiction movies, rock music, and sports**. **Straddling creative and scholarly work, the projects often take the form of publicly available tools and databases, chronicling subcultures and** omitted **perspectives**.
 
@@ -280,9 +279,9 @@ TXT02
 
 **125**
 
-GELARE KHOSHGOZARAN
+### GELARE KHOSHGOZARAN
 
-***More Poetics***\*\*, *Less* Forensics\*\*
+#### ***More Poetics***\*\*, *Less* Forensics\*\*
 
 ***Gelare Khoshgozaran*** **is an undisciplinary artist and writer whose work engages with the legacies of imperial violence manifested in war and militarization, borders**, **and archives. They use** film **and video to explore narratives of belonging outside of the geographies and temporalities that both unsettle our sense of home and make our places of affinity uninhabitable. Khoshgozaran is an Assistant Professor of Art at UCLA School of Art and Architecture and editor at *MARCH***: a journal **of**
 
@@ -321,9 +320,9 @@ Design **for** "anonymous rug," **2022. The** design uses interior or exterior e
 
 133
 
-JASON LAZARUS
+### JASON LAZARUS
 
-LOWERCASE: **artists and** archives\*\*\*\*\*
+#### LOWERCASE: **artists and** archives\*\*\*\*\*
 
 Jason **Lazarus** is an **artist exploring vision and visibility**. **His work includes a range of** fluid **methodologies**: **original, found and appropriated images, text-as-image**, photo\*\*-\*\*derived **sculptures made collaboratively with the public, live archives, LED light images, and public submission repositories,** among **others**. This **expanded photographic practice seeks new approaches of inquiry, embodiment, and bearing witness through both individual and collective research**.
 
@@ -555,9 +554,9 @@ Contemporary Jewish Museum, San Francisco, 2013
 141  
 SY **TICO**
 
-SAVANNAH WOOD
+### SAVANNAH WOOD
 
-*Martha's **Hand***
+#### *Martha's **Hand***
 
 ***Savannah Wood*** **is an artist with deep roots in Baltimore and Los Angeles**. **Wood** works **primarily in photography, text, and installation to explore how spirituality, domesticity**, **and our relationships to place shape our identities. Her projects reconnect people with the everyday beauty of our world and the histories that lie hidden below the surface**.
 
@@ -622,9 +621,9 @@ I Will **Become *the* Archive** BY WENDY RED STAR
 
 ***Ghosts*** **in *the Microfiche*** BY LJ ROBERTS
 
-WENDY RED STAR
+### WENDY RED STAR
 
-*I* Will ***Become the*** Archive
+#### *I* Will ***Become the*** Archive
 
 ***Wendy*** **Red** *Star* **works across disciplines to explore the intersections of Native American ideologies and colonization, both historically and** in **contemporary society**. **Raised on the *Apsáalooke*** (**Crow) reservation** in **Montana**, **Red Star's work** is **informed** both by **her heritage and her engagement** with **many forms of creative expression**, **including photography, sculpture, video**, **fiber arts, and performance**. **An avid researcher of archives** and **historical narratives,** Red **Star seeks to incorporate and**
 
@@ -677,9 +676,9 @@ Detail of **Nellie Scratches** Herself's dress, with beaded yoke detail, in **th
 
 195
 
-LJ ROBERTS
+### LJ ROBERTS
 
-Ghosts in **the** Microfiche
+#### Ghosts in **the** Microfiche
 
 LJ **Roberts is an artist and writer who creates large**-**scale textile installations**, **intricate embroideries, artist books, collages, and mixed-media sculptures. Their work illuminates oft-erased and unacknowledged queer and trans narratives, people**, **and places. The artist creates conceptual and geographical maps of queer life of the past, present**, and future **through material deviance and re-imaging craft practices**.
 
@@ -736,9 +735,9 @@ TXT04
 
 241
 
-MINNE ATAIRU
+### MINNE ATAIRU
 
-*Igùn* AI
+#### *Igùn* AI
 
 Minne **Atairu is an interdisciplinary artist and doctoral student in the Art and Art Education program at Teachers College Columbia University**. Minne's **research emerges at the intersection of Machine Learning, Art Education, and** Hip-**Hop Pedagogy**. **Through the use of Artificial Intelligence**, Minne **recombines historical fragments**, **sculptures, texts**, **images, and sounds** to **generate synthetic Benin Bronzes, which often hinge** on **questions of repatriation** and **post-repatriation**.
 
@@ -764,9 +763,9 @@ Image of **a terracotta** sculpture **generated** using the algorithm titled *Ig
 
 249
 
-PIO ABAD
+### PIO ABAD
 
-*Thoughtful Gifts*
+#### *Thoughtful Gifts*
 
 **Pio *Abad's* artistic practice is concerned with the personal and political entanglements of objects.** His **wide-ranging body of work**, **encompassing drawing**, **painting**, **textiles, installation, and text, mines alternative or repressed historical events and offers counternarratives that draw out threads of** complicity **between incidents**, **ideologies, and people. Deeply informed by unfolding events in the Philippines, where the artist was born and raised**, his work **emanates from** a **family narrative woven into the nation's story**. **Abad's parents were** at **the forefront** of **the anti**-**dictatorship struggle in the Philippines during the 1970s** and '**80s, and it is the** need to **remember this**
 
