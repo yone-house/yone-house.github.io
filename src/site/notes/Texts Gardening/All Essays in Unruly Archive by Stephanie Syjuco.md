@@ -5,7 +5,7 @@
 # All Essays in *Unruly Archive* by Stephanie Syjuco
 
 ## PDF Version (scanned with phone)
-![[syjuco_unruly archive_all_essays.pdf]]
+![[syjuco_unruly_archive_all_essays.pdf]]
 
 ## Google OCR version
 
