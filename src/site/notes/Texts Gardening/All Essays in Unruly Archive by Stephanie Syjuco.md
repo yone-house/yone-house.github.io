@@ -7,10 +7,12 @@
 ---
 
 # All Essays in *Unruly Archive* by Stephanie Syjuco
-
+---
 ## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)
 
-## Google OCR version
+---
+
+## Google Drive OCR version
 
 STEPHANIE SYJUCO
 
