@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/texts-gardening/all-essays-in-unruly-archive-by-stephanie-syjuco/"}
 ---
 
+## [[Texts Gardening/The Guardians - Alexander Chee\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
+
+---
+
 # All Essays in *Unruly Archive* by Stephanie Syjuco
 
 ## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)

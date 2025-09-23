@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/texts-gardening/the-guardians-alexander-chee/"}
 ---
 
+## [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|⇾ next page]]
+---
 # *The Guardians* by Alexander Chee
 From *How to Write an Autobiographical Novel*
 *annotated by me*

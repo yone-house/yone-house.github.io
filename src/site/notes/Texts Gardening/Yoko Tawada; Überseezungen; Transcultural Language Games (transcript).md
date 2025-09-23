@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/texts-gardening/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/"}
 ---
 
+## [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
+---
 # Yoko Tawada; Überseezungen; Transcultural Language Games (transcript) 
 
 (University of Arizona, 2006-02-10)

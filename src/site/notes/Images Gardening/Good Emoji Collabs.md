@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/images-gardening/good-emoji-collabs/"}
 ---
 
+## [[Images Gardening\|🖼️]] | [[Images Gardening/Ginkgo Graphics\|⇾ next page]]
+
+---
+
 # Good Emoji Collabs
 
 found images used in personal messages

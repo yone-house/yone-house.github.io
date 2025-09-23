@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/images-gardening/ginkgo-graphics/"}
 ---
 
+
+## [[Images Gardening\|🖼️]] | [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
+
+---
 # Ginkgo Graphics
 
 > [!NOTE]

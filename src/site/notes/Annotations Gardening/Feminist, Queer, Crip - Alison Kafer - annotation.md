@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/annotations-gardening/feminist-queer-crip-alison-kafer-annotation/"}
 ---
 
+## [[Annotations Gardening\|📑]] | [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]
+---
 # Feminist, Queer, Crip - Alison Kafer - annotation
 *exported 2025-09-04*
 

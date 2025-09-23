@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/texts-gardening/chee-blue-stoop-8-4-2025-transcript/"}
 ---
 
+## [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/The Guardians - Alexander Chee\|⇾ next page]]
+---
 # Chee Blue Stoop 8-4-2025 Transcript
 
 All right, hello everyone, thank you so much for joining. Can everyone hear me okay?
