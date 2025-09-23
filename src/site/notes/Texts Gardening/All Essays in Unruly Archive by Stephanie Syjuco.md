@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/texts-gardening/all-essays-in-unruly-archive-by-stephanie-syjuco/"}
 ---
 
-
 # All Essays in *Unruly Archive* by Stephanie Syjuco
 
 ## PDF Version (scanned with phone)
-![[syjuco_unruly archive_all essays.pdf]]
+![[syjuco_unruly archive_all_essays.pdf]]
 
 ## Google OCR version
 
