@@ -9,7 +9,7 @@
 
 # Not Food
 
-Things Google Photos thinks is food when I search for "food"
+Things Google Photos thinks is food when I search for "food" in my camera roll. 
 
 ![IMG_6029.jpg](/img/user/Images%20Gardening/not%20food%20attachments/IMG_6029.jpg)
 ![IMG_3251.jpg](/img/user/Images%20Gardening/not%20food%20attachments/IMG_3251.jpg)
