@@ -287,4 +287,4 @@ I had written a novel that, after it was published, let me practice saying what 
 
 ---
 
-## [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
+## [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|⇾ next page]]
