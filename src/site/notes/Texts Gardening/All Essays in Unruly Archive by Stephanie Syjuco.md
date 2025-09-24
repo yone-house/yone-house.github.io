@@ -13,7 +13,8 @@
 ---
 ## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)
 
-<iframe src="https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/preview?usp=embed_googleplus" style="top: 0; left: 0; width: 100%; height: 100vh; border: 0;" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/preview?usp=embed_googleplus" style="width: 100%; height: 900px; border: 0;" allowfullscreen></iframe>
+
 ---
 ### INTRODUCTION by Stephanie Syjuco
 
