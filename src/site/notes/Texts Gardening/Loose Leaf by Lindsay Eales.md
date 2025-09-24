@@ -6,8 +6,8 @@
 
 ---
 
-# "Loose Leaf" by Lindsay Eales[^1]
-
+# "Loose Leaf" by Lindsay Eales
+[^1]
 <iframe style="width: 100%; height: 70vh" src="https://yone.house/eales_loose_leaf_shuffler"></iframe>
 
 
