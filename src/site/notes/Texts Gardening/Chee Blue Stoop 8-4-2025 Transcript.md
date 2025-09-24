@@ -3,7 +3,9 @@
 ---
 
 ## [[Texts Gardening/Loose Leaf by Lindsay Eales\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/The Guardians - Alexander Chee\|⇾ next page]]
+
 ---
+
 # Chee Blue Stoop 8-4-2025 Transcript
 
 All right, hello everyone, thank you so much for joining. Can everyone hear me okay?

@@ -6,9 +6,10 @@
 ## [[Texts Gardening/The Guardians - Alexander Chee\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
 
 ---
+
 # All Essays in *Unruly Archive* by Stephanie Syjuco
 
-*this is one of my favorite books of art/scholarship of all time. if you like these essays i really suggest buying the [actual book from Radius Books](https://www.stephaniesyjuco.com/projects/stephanie-syjuco-the-unruly-archive-monograph-with-radius-books), if you can. it really sucks that it's not available in a digital format, but i understand that the full book is hard to translate to an online version. however, i produced the html version below of the essays that is somewhat accessible.*
+*this is one of my favorite books of art/scholarship of all time. if you like these essays i really suggest buying the [actual book from Radius Books](https://www.stephaniesyjuco.com/projects/stephanie-syjuco-the-unruly-archive-monograph-with-radius-books), if you can. it really sucks that it's not available in a digital format, but i understand that the full book is hard to translate to an online version. however, i produced an html version of the essays below the PDF that is somewhat accessible.*
 
 ---
 ## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)
@@ -16,6 +17,9 @@
 <iframe src="https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/preview?usp=embed_googleplus" style="width: 100%; aspect-ratio: 0.826; border: 0;" allowfullscreen></iframe>
 
 ---
+
+## HTML / Markdown Version
+
 ### INTRODUCTION by Stephanie Syjuco
 
 [Object Number 2022.24.1] 

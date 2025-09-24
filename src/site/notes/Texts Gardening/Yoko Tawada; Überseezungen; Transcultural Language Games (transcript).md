@@ -3,7 +3,9 @@
 ---
 
 ## [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Loose Leaf by Lindsay Eales\|⇾ next page]]
+
 ---
+
 # Yoko Tawada; Überseezungen; Transcultural Language Games (transcript) 
 
 (University of Arizona, 2006-02-10)
