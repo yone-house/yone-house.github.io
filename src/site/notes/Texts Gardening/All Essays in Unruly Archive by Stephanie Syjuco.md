@@ -20,7 +20,7 @@
 
 This book simulates a type of forensics.
  
-Like the process of physically excavating an archive, it darts in and out of images, fragments, and documents with the eye of someone undertaking a search through a body that was embalmed and cataloged years ago. In this case, it simulates what it is like to piece together a vision of an entire country and people-the Philippines, Filipinos, and by extension Filipinx Americans[^1]-through the lens of the American colonial archive.
+Like the process of physically excavating an archive, it darts in and out of images, fragments, and documents with the eye of someone undertaking a search through a body that was embalmed and cataloged years ago. In this case, it simulates what it is like to piece together a vision of an entire country and people&mdash:the Philippines, Filipinos, and by extension Filipinx Americans[^1]&mdash;through the lens of the American colonial archive.
  
 *What does it mean to not see yourself clearly?*
  
