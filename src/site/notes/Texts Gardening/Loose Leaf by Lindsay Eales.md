@@ -17,4 +17,4 @@ Eales, Lindsay. 2016. “Loose Leaf”. _Canadian Journal of Disability Studies
 
 ## [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
 
-[^1]: [\<iframe> embed of [https://yone.house/eales_loose_leaf_shuffler](https://yone.house/eales_loose_leaf_shuffler)]
+[^1]: iframe embed of https://yone.house/eales_loose_leaf_shuffler
