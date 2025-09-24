@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/texts-gardening/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/"}
 ---
 
-## [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
+## [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Loose Leaf by Lindsay Eales\|⇾ next page]]
 ---
 # Yoko Tawada; Überseezungen; Transcultural Language Games (transcript) 
 
@@ -213,4 +213,4 @@ And you speak of the difficulties of [INAUDIBLE],, of swearing in your languag
 
 ---
 
-## [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
+## [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Loose Leaf by Lindsay Eales\|⇾ next page]]
