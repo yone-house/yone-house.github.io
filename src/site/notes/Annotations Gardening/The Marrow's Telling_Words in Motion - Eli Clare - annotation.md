@@ -122,7 +122,7 @@ wntten 2004-2006
 -------------------
 #### 2025-01-13 18:30  |  Page No.: 107
 looking at photographs by Abraham Menashe 1992 
-wnitten 1992, 2007
+written 1992, 2007
 
 -------------------
 #### 2025-01-13 18:36  |  Page No.: 116
