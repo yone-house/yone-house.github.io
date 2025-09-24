@@ -92,7 +92,7 @@ As I deepened into this work, I encountered the obvious: there is no escaping th
 
 After that project, and all it revealed to me, I did begin to step into institutional spaces, if tentatively at first. I worked in university archives, historical societies, museums' papers. I did so while continuing to assemble my own catalog of found images-sometimes blending the two, not so exclusive as I once thought. And new paths have emerged (archives are like that, always opening trap doors). In the last few years, I have begun to work in close collaboration with feminist organizations and the women who run them-domestic violence advocacy and support organizations in Philadelphia and Denver, abortion clinics across the Midwest-which has been an education in trust building and reciprocity. It is a reminder for me, after all those years of working alone in the studio, that there are no social movements, and no archives of those same movements, without solidarity. Without people. And, for my part as an artist, there is no work about care work without the conditions of care. The relationships that have come from this work have been among the most meaningful of my life, and the engine for all that follows. This is the real animating force of archive work for me: in dealing with objects that belong to others, we are drawn closer. 
 
-![winant001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/winant001.jpg)
+>![winant001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/winant001.jpg)
 > 
 > Carmen Winant, *My Birth*, 2018 
 > Found images, tape. 
