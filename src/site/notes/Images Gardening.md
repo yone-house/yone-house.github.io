@@ -7,9 +7,9 @@
 
 ---
 
-Collections of images I have found and enjoy, none created by me. 
+Collections of images I have found and enjoy, few created by me. 
 
-If you want to see some images *I've* created, visit my other websites, https://yone.house or https://live-drive-at.yone.house
+If you want to see some images I've more intentionally created, visit my other websites, https://yone.house or https://cabinet.yone.house
 
 *View the graph or links at the bottom to search through directory and structure, or just jump in with the links below.*
 
