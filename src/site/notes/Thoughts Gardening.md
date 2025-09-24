@@ -7,7 +7,7 @@
 
 ---
 
-Thoughts. That's all. Something blog-like in the shape of a circle.
+Brief thoughts. Something blog-like in the shape of a circle.
 
 Right now most of them are about this website itself. 
 
