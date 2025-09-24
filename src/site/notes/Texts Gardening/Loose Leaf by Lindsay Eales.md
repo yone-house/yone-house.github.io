@@ -8,6 +8,8 @@
 
 # "Loose Leaf" by Lindsay Eales
 
+*formatting works best on desktop or mobile landscape view*
+
 <iframe style="width: 100%; height: 70vh" src="https://yone.house/eales_loose_leaf_shuffler"></iframe>
 
 
