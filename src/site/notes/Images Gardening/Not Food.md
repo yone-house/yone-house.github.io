@@ -3,7 +3,7 @@
 ---
 
 
-## [[Images Gardening/Good Emoji Collabs\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Ginkgo Graphics\|⇾ next page]]
+## [[Images Gardening/Good Emoji Collabs\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Signs over 5\|⇾ next page]]
 
 ---
 
@@ -35,4 +35,4 @@ Things Google Photos thinks is food when I search for "food" in my camera roll. 
 ![PXL_20250405_155141340.jpg](/img/user/Images%20Gardening/not%20food%20attachments/PXL_20250405_155141340.jpg)
 
 ---
-## [[Images Gardening/Good Emoji Collabs\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Ginkgo Graphics\|⇾ next page]]
+## [[Images Gardening/Good Emoji Collabs\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Signs over 5\|⇾ next page]]
