@@ -3,7 +3,7 @@
 ---
 
 
-## [[Images Gardening/Not Food\|previous page ⇽]][[Images Gardening\|🖼️]] | [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
+## [[Images Gardening/Not Food\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
 
 ---
 # Ginkgo Graphics
@@ -46,9 +46,9 @@
 
 
 > [!NOTE]
-> ![[animals-ginkgo_biloba-tv_interview-television_interview-elephant-memory-jfan714_low.jpg\|animals-ginkgo_biloba-tv_interview-television_interview-elephant-memory-jfan714_low.jpg]]
+> ![animals-ginkgo_biloba-tv_interview-television_interview-elephant-memory-jfan714_low.jpg](/img/user/Images%20Gardening/ginkgo%20graphics%20attachments/animals-ginkgo_biloba-tv_interview-television_interview-elephant-memory-jfan714_low.jpg)
 > what is the object on the right also maybe i should try!!
 
 ---
 
-## [[Images Gardening/Not Food\|previous page ⇽]][[Images Gardening\|🖼️]] | [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
+## [[Images Gardening/Not Food\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]

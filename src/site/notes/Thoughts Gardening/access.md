@@ -13,4 +13,4 @@ however, it's nice that a majority of this site is just very basic text, and sho
 any concerns or comments can be emailed to me at **doorbell@yone.house**
 
 ---
-## [[Thoughts Gardening/what i see\|previous page ⇽]] | [[Thoughts Gardening\|💬]] | [[Thoughts Gardening/what i entrust\|⇾ next page]]
+## [[Thoughts Gardening/what i see\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/what i entrust\|⇾ next page]]

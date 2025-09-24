@@ -11,4 +11,4 @@ i think i will dig out & post some readings about garden & landscape design in e
 maybe a priority of mine should be finding a way to let this site grow more organically. will update when i think of a way to do that.
 
 ---
-## [[Thoughts Gardening/what i entrust\|previous page ⇽]] | [[Thoughts Gardening\|💬]] | [[Thoughts Gardening/seed bank\|⇾ next page]]
+## [[Thoughts Gardening/what i entrust\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/seed bank\|⇾ next page]]

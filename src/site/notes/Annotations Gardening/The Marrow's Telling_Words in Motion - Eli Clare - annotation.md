@@ -3,10 +3,12 @@
 ---
 
 
-## [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
+## [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Time Is the Thing a Body Moves Through - T. Fleischmann - annotations\|⇾ next page]]
 
 ---
-# The Marrow's Telling: Words in Motion by Eli Clare
+# The Marrow's Telling: Words in Motion - Eli Clare - annotations
+
+---
 
 #### 2025-01-13 17:44  |  Page No.: 18
 The stones in the following pieces range from 
@@ -156,4 +158,4 @@ written 1992
 
 -------------------
 
-## [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
+## [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Time Is the Thing a Body Moves Through - T. Fleischmann - annotations\|⇾ next page]]
