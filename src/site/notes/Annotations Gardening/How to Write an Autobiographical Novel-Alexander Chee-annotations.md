@@ -3,6 +3,7 @@
 ---
 
 ## [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|previous page ⇽]] [[Annotations Gardening\|📑]]  [[Annotations Gardening/The Marrow's Telling_Words in Motion - Eli Clare - annotation\|⇾ next page]]
+
 ---
 # How to Write an Autobiographical Novel-Alexander Chee-annotations
 *exported 2025-08-29*
