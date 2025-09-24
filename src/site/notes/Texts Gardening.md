@@ -12,4 +12,4 @@ Full texts I have collected and/or transcribed in various journeys. All feel imp
 *View the graph or links at the bottom to search through directory and structure, or just jump in with the links below.*
 
 ---
-## [[Texts Gardening/All Essays in Unruly Archive by Stephanie Syjuco\|previous page ⇽]]  📖  [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
+## [[Texts Gardening/Syjuco Unruly Archive All Essays\|previous page ⇽]]  📖  [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
