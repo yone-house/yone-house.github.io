@@ -8,7 +8,7 @@
 ---
 # All Essays in *Unruly Archive* by Stephanie Syjuco
 
-*this is one of my favorite books of art/scholarship of all time. if you like these essays i really suggest buying the [actual book from Radius Books](https://www.stephaniesyjuco.com/projects/stephanie-syjuco-the-unruly-archive-monograph-with-radius-books), if you can. it really sucks that it's not available in a digital format, but i understand that the full book is hard to translate to an online version. however, i've provided an html version below of the essays that is somewhat accessible.*
+*this is one of my favorite books of art/scholarship of all time. if you like these essays i really suggest buying the [actual book from Radius Books](https://www.stephaniesyjuco.com/projects/stephanie-syjuco-the-unruly-archive-monograph-with-radius-books), if you can. it really sucks that it's not available in a digital format, but i understand that the full book is hard to translate to an online version. however, i produced the html version below of the essays that is somewhat accessible.*
 
 ---
 ## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)
