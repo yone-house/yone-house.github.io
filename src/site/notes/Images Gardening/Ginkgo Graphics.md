@@ -3,7 +3,7 @@
 ---
 
 
-## [[Images Gardening/Not Food\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
+## [[Images Gardening/Signs over 5\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
 
 ---
 # Ginkgo Graphics
@@ -51,4 +51,4 @@
 
 ---
 
-## [[Images Gardening/Not Food\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
+## [[Images Gardening/Signs over 5\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
