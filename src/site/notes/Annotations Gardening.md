@@ -7,7 +7,7 @@
 
 ---
 
-These are documents exported from my ereader, mostly highlighted quotes that are important to me with some annotations. Exported as .txt files and converted to .md format. 
+These are documents exported from my ereader, mostly highlighted quotes that are important to me with some annotations. Read as .epub, exported as .txt and converted to .md. 
 
 Accompanying texts might be found in Texts Gardening 📖, but maybe not. I do have all of them, so feel free to reach out if you want a free copy.
 
