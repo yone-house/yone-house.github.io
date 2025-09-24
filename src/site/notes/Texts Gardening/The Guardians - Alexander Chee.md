@@ -52,7 +52,7 @@ I have to go, he said. I’m afraid of me and I’m afraid of you.
 
 We didn’t speak for several days. They were some of the loneliest days. I knew what he was trying to do, though. I had put together his seemingly disparate stories, not included here, and I had seen this expression on his face from the other side—this had happened to me when I was his age.  
 
-==It takes one to know one.==  
+It takes one to know one.  
 
 He was trying to face what he wanted, and it was also what scared him away. His desire for men brought back memories and sensations he didn’t want, pushed down so far he was sure they were gone, until suddenly, there they were again. He eventually tried to tell me all of this. And I can’t say any of what he told me, or what I guessed, because it belongs to him and not to me, and his journey in that regard is his own. I just knew then that I had become the man I ran from when I was having my own flashbacks. And so I was patient as he fought whatever this was inside him, even as I knew how my own relationships then had ended. I was in yet another stereoscopic narrative.  
 
@@ -67,7 +67,7 @@ In *Sleeping Beauty,* the handsome prince makes his way through a forest of thor
 
 WE ARE NOT WHAT we think we are. The stories we tell of ourselves are like thin trails across something that is more like the ocean. A mask afloat on the open sea.  
 
-==There were moments before the memory’s return when I experienced what I now understand as its absence as not a gap but a whole other self, a whole other me. As if a copy of me had secretly replaced me. An android of me moving through the landscape, independent of the other me, exactly like me but not me.==[^2] ==Every now and then, I could see the distance between us.==[^3] Three times, in particular, this other self had appeared before me.
+There were moments before the memory’s return when I experienced what I now understand as its absence as not a gap but a whole other self, a whole other me. As if a copy of me had secretly replaced me. An android of me moving through the landscape, independent of the other me, exactly like me but not me.[^2] Every now and then, I could see the distance between us.[^3] Three times, in particular, this other self had appeared before me.
 
 ---
 
@@ -87,7 +87,7 @@ I paused, terrified, but also curious. Yes, I said. I asked where they were from
 
 IN OCTOBER 2001, I had my phone in my hand, about to call my mother. My first novel, *Edinburgh,* was about to appear in bookstores the very next day. The story is of the legacy sexual abuse leaves in the life of a young man angry at himself about it, and his apparent powerlessness over that silence. She’d complained that she hadn’t seen the novel in manuscript, and I had pacified her by assuring her I wanted her to have the bound book. This was partly true. I was proud to finally be able to hand my mother the physical thing, to say, *Here. I’m a writer.* But now the bound book was in my hand, and I was preparing to send it to her, and I stopped, pulled up short by the memory that I had never told her what had happened to me.  
 
-The scope of this gap terrified me. How had I let this happen? I was thirty-four years old. I was about to publish a novel about sexual abuse based on my own experiences, but had never told her one thing about them. ==Not only that, but in all the time that had passed between when the events had occurred and that moment right then, I could see I had been very angry at her. A child’s anger. The child in me had wanted her to figure out what had happened. I had hoped to avoid the humiliation of having to tell her, wanting her instead to guess my thoughts. That adolescent wish that the mother knows your pain without your having to describe it.==[^5] ==But children have to learn to say they are in pain. To name it. The naming even helps heal it.==[^6]
+The scope of this gap terrified me. How had I let this happen? I was thirty-four years old. I was about to publish a novel about sexual abuse based on my own experiences, but had never told her one thing about them. Not only that, but in all the time that had passed between when the events had occurred and that moment right then, I could see I had been very angry at her. A child’s anger. The child in me had wanted her to figure out what had happened. I had hoped to avoid the humiliation of having to tell her, wanting her instead to guess my thoughts. That adolescent wish that the mother knows your pain without your having to describe it.[^5] But children have to learn to say they are in pain. To name it. The naming even helps heal it.[^6]
 
 Even at that moment, I was trying to stop myself. I was frozen in the act. I wanted to put the phone down and never tell her. I tried to imagine if there was even one way I could continue to pretend with her. But I knew she would be deeply hurt to be surprised by what was in the book. I could see how I passed myself off to others as someone who had gotten over it all on my own, the disguise I had put on of being unhurt simply a way for me to fix myself in private. I had never told her because I had hoped I could heal in secret and she would never have to know. And yet here I was, still in pain.  
 
@@ -97,22 +97,22 @@ And then I made the call.
 
 ---
 
-IN THE SPRING OF the same year as the memory’s return, ==I was working as a writing tutor to a graduate student in nonfiction who felt I understood her better than her teachers did. She sent me a draft of her memoir, and as I read through scenes describing how she had attempted suicide and then, in therapy afterward, raged at her therapist for not knowing she had attempted suicide, I wondered at the therapist’s reaction to the suicide attempt itself. I sent her what I thought was an ordinary email: “I don’t see that you’ve included scenes describing what it was like telling your therapist about your suicide attempt, or how she reacted. If you could describe this, it would help the reader know why you’re so angry here.”==
+IN THE SPRING OF the same year as the memory’s return, I was working as a writing tutor to a graduate student in nonfiction who felt I understood her better than her teachers did. She sent me a draft of her memoir, and as I read through scenes describing how she had attempted suicide and then, in therapy afterward, raged at her therapist for not knowing she had attempted suicide, I wondered at the therapist’s reaction to the suicide attempt itself. I sent her what I thought was an ordinary email: “I don’t see that you’ve included scenes describing what it was like telling your therapist about your suicide attempt, or how she reacted. If you could describe this, it would help the reader know why you’re so angry here.”
 
-==I received an email back, the letters in the tiniest possible font, smaller than she normally used, such that I thought, at first, it was some strange mistake, or even a hacking.==
-
---
-==I never told her. I’ve never been in therapy for it, either.==[^7]
+I received an email back, the letters in the tiniest possible font, smaller than she normally used, such that I thought, at first, it was some strange mistake, or even a hacking.
 
 --
+I never told her. I’ve never been in therapy for it, either.[^7]
 
-==My immediate thoughts: How could she not have told anyone? Did she not know how dangerous it was to just go around untreated? She could relapse at any moment. And then I remembered: most suicides hope to die without interference. Telling someone means allowing the person you told the chance to stop you.==[^8] I had discovered something like the back passageway she’d left open.  
+--
 
-Staring at those tiny letters, I realized I was meeting the person she actually was, underneath her performance of competence. ==All her life since then she had been waiting to see if someone would notice,==[^11] and I had. And then another cold truth came to me out of those tiny letters.
+My immediate thoughts: How could she not have told anyone? Did she not know how dangerous it was to just go around untreated? She could relapse at any moment. And then I remembered: most suicides hope to die without interference. Telling someone means allowing the person you told the chance to stop you.[^8] I had discovered something like the back passageway she’d left open.  
 
-==I was almost exactly like her.==  
+Staring at those tiny letters, I realized I was meeting the person she actually was, underneath her performance of competence. All her life since then she had been waiting to see if someone would notice,[^11] and I had. And then another cold truth came to me out of those tiny letters.
 
-All of my attempts at therapy previous to this had been about the issues that moved above certain ruptures in myself that remained undescribed. ==The difference was that I had never raged that a therapist had not figured this out about me. If anything, I was proud of it. I had endured, I told myself. I was so strong. But this is not strength. It is only endurance. ~~A kind of emotional or therapeutic anorexia.~~ I was not strong. Or if I was, it was the adrenaline of the wounded. I was really only broken, moving through the landscape as if I were not, and taking all my pride in believing I was passing as whole.==[^9]
+I was almost exactly like her.  
+
+All of my attempts at therapy previous to this had been about the issues that moved above certain ruptures in myself that remained undescribed. The difference was that I had never raged that a therapist had not figured this out about me. If anything, I was proud of it. I had endured, I told myself. I was so strong. But this is not strength. It is only endurance. A kind of emotional or therapeutic anorexia. I was not strong. Or if I was, it was the adrenaline of the wounded. I was really only broken, moving through the landscape as if I were not, and taking all my pride in believing I was passing as whole.[^9]
 
 ---
 ## 3
@@ -125,17 +125,17 @@ Even now, though, as I try to write this essay, it dissolves in my hands. There 
 
 My writing process is informed in general by my relationship to this—a process with a deep mistrust of myself.  
 
-==The impulse to hide this from myself and others pushes at me. I change my sense of the structure again and again, moving events around, until the document becomes a mass of repetitions and fragments, elliptical, incomplete. A self-portrait.==[^10]  
+The impulse to hide this from myself and others pushes at me. I change my sense of the structure again and again, moving events around, until the document becomes a mass of repetitions and fragments, elliptical, incomplete. A self-portrait.[^10]  
 
 Most people misunderstand the crime of sexual abuse. They think of stolen youth, a child tucked under the arm and spirited away. But it isn’t like someone entering your house and stealing something from you. Instead, someone leaves something with you that grows until it replaces you. They themselves were once replaced this way, and what they leave with you they have carried for years within them, like a fire guarded all this time as it burned them alive inside, right under the skin. The burning hidden to protect themselves from being revealed as burned.  
 
-==You imagine that the worst thing is that someone would know. The attention you need to heal you have been taught will end you. And it will—it will end the pain you have mistaken for yourself.==[^12] ==The worst thing is not that someone would know. The worst thing is that you might lay waste to your whole life by hiding.==[^13]  
+You imagine that the worst thing is that someone would know. The attention you need to heal you have been taught will end you. And it will—it will end the pain you have mistaken for yourself.[^12] The worst thing is not that someone would know. The worst thing is that you might lay waste to your whole life by hiding.[^13]  
 
 You could mistake your ability to go this far for strength. So you go on. Strength is admirable, after all, and you are ashamed of everything else about yourself. This endurance, at least—this you can admire. You were too young to know what you believe is your complicity was something taken from you, but in your silence, you have become complicit with the continued pain, the wound that risks replacing you the longer you let it stay. But among the things you cannot imagine is that anyone would understand, or be kind. This is all you understand.  
 
 When I ask myself why it was so hard for me to let this secret go, the answer is that holding on to it was the only source of my self-esteem for years. It was all I thought I had.  
 
-I’m sorry, is what I would have wanted to have my replacement say in that documentary. ==Sorry I was so lonely as a child. Sorry that I was a child, with a child’s reasoning.==[^4] Sorry I didn’t understand how this man could be punished, as I had only ever seen children punished. Sorry I dreamed of a kiss and then, when I accepted it, didn’t know how it would make my mouth a grave. Myself living inside of it. Sorry that years later, for having had that kiss, I would boast of avoiding the pain that was eating me alive from the inside out, and that this would be said on film, and it would go everywhere, around the world. Sorry for at least that, and more than that. 
+I’m sorry, is what I would have wanted to have my replacement say in that documentary. Sorry I was so lonely as a child. Sorry that I was a child, with a child’s reasoning.[^4] Sorry I didn’t understand how this man could be punished, as I had only ever seen children punished. Sorry I dreamed of a kiss and then, when I accepted it, didn’t know how it would make my mouth a grave. Myself living inside of it. Sorry that years later, for having had that kiss, I would boast of avoiding the pain that was eating me alive from the inside out, and that this would be said on film, and it would go everywhere, around the world. Sorry for at least that, and more than that. 
 
 But I wouldn’t know this for years.  
 
@@ -180,16 +180,16 @@ I included something like this scene in the novel. I describe looking at my face
 
 I had, until that day in the bar in Brooklyn, remembered most of it except for the dream and what the dream led me to do. What I cannot, do not, let myself remember in that tent is the reason why I despaired. I put away the dream that night, and any memory of how I believed it was a dream coming true. I put away how I hated my silence, my inability to act, my shame at being humiliated this way—to have my secret known by those I thought were my friends, who then only used it against me. My despair was the despair of realizing that this was just another trap, that there was perhaps no end of traps. The boy from my dream was there to make everything the director was doing to me and the other boys seem okay. This trip is the extent of the director’s interest in me this way. He never tries to be alone with me again. He only wanted to control what I wanted—access to his favorite—and when I received it, and how.[^1]
 
-==As an adult, I understand my powerlessness. I can see I was in the woods without access to a phone or a car or another adult. I now know that the director chose me in part because my family was in crisis—he knew my mother needed a place for me to be after school, and that I needed the refuge the choir offered.==[^14] Until the camping trip, the choir had been like a paradise for me: other boys who were smart, who liked me, who didn’t mock me, who wanted me as their friend, just for who I was. I can see that I was only a tool to the director, and this display of power over my desires was done to put me in my place. And that new place was to make everything seem okay to the other boys, much like my own dream boy had done for me. But what’s new, supplied by the memory, is how I gave up then, gave up believing my life could ever be any better. I would never escape the people intent on humiliating me. There was no place for me in this world, and there was nothing I could do about it. The despair I have lived with my whole life overtook me then, and until that kiss in the bar twenty-five years later, I had kept this secret, even from myself.  
+As an adult, I understand my powerlessness. I can see I was in the woods without access to a phone or a car or another adult. I now know that the director chose me in part because my family was in crisis—he knew my mother needed a place for me to be after school, and that I needed the refuge the choir offered.[^14] Until the camping trip, the choir had been like a paradise for me: other boys who were smart, who liked me, who didn’t mock me, who wanted me as their friend, just for who I was. I can see that I was only a tool to the director, and this display of power over my desires was done to put me in my place. And that new place was to make everything seem okay to the other boys, much like my own dream boy had done for me. But what’s new, supplied by the memory, is how I gave up then, gave up believing my life could ever be any better. I would never escape the people intent on humiliating me. There was no place for me in this world, and there was nothing I could do about it. The despair I have lived with my whole life overtook me then, and until that kiss in the bar twenty-five years later, I had kept this secret, even from myself.  
 
-==I was twelve when I put this memory away. The force exerting itself in my life was the power of pure childhood imagination, unmediated by any sense of my own power to speak, to create understanding and compassion. Instead, there was in me a dream of fear,==[^15] so powerful I made a doll of myself to stay in my place, and I ran away. The doll woke up, stretched, looked around, and believed it was me.
+I was twelve when I put this memory away. The force exerting itself in my life was the power of pure childhood imagination, unmediated by any sense of my own power to speak, to create understanding and compassion. Instead, there was in me a dream of fear,[^15] so powerful I made a doll of myself to stay in my place, and I ran away. The doll woke up, stretched, looked around, and believed it was me.
 
 ---
 ## 5
 
-==IMAGINE WALKING INTO YOUR apartment and finding someone ripping up a piece of paper. You put your hand on his arm and this person turns to face you. It is you.==  
+IMAGINE WALKING INTO YOUR apartment and finding someone ripping up a piece of paper. You put your hand on his arm and this person turns to face you. It is you.  
 
-==You read the paper, and as you do, you feel as if you are falling into it, endlessly, away from yourself and into yourself at the same time.==[^16]  
+You read the paper, and as you do, you feel as if you are falling into it, endlessly, away from yourself and into yourself at the same time.[^16]  
 
 In the months after the memory returned, I continued with my life as best I could. But my recovered memory, for me, was like receiving a telegram one morning and finding inside the answer to twenty-five years’ worth of mistakes, twenty-five years of confusion and pain, and watching as around me the day turned as black as night. There was a story I needed to understand, the one I had tried to avoid, and it was all I wanted to listen to, and everything else I had to do was in the way.  
 
@@ -201,7 +201,7 @@ There was one more story I was inside of then, yet another stereograph. The one 
 
 THE FIRST NEW THERAPIST I found had been recommended to me by a friend. As her office was near where I was living at the time in New York, and she had helped my friend to a remarkable recovery after a sexual assault, and that friend had recommended her highly, I went. This therapist listened to me for ten or fifteen minutes as I described why I had come to her, and then she said, “I’m not sure I know how to help you. The people I work with usually can’t even name what happened to them, much less write a novel about it.”  
 
-I was suddenly very aware that I was sitting on a couch surrounded by stuffed animals and toys, as if I were visiting a nursery. I wondered if the toys were for her other patients even as I knew they were, and I fought the impulse to pick one up. She told me I seemed fine, perhaps a little neurotic, at least not as damaged as others—not in danger. She agreed to keep seeing me, and I did see her twice more. ==But inside the self performing as someone who was fine was the self who was not, and the vision I’d had of my life, the one that had me wanting to scream, was a vision of how living this way, inside of this performance, had blighted my life. I felt like a tree struck by lightning a long time ago, burning secretly from the inside out, the bark still smooth to the end—the word FINE painted on it.==[^17]  
+I was suddenly very aware that I was sitting on a couch surrounded by stuffed animals and toys, as if I were visiting a nursery. I wondered if the toys were for her other patients even as I knew they were, and I fought the impulse to pick one up. She told me I seemed fine, perhaps a little neurotic, at least not as damaged as others—not in danger. She agreed to keep seeing me, and I did see her twice more. But inside the self performing as someone who was fine was the self who was not, and the vision I’d had of my life, the one that had me wanting to scream, was a vision of how living this way, inside of this performance, had blighted my life. I felt like a tree struck by lightning a long time ago, burning secretly from the inside out, the bark still smooth to the end—the word FINE painted on it.[^17]  
 
 I had even used this image of the lightning-struck tree in the novel I’d written, and it was just one of the ways the novel allowed that hidden self to speak in public. The novel that seemed, that day, to have become yet another obstacle for me.  
 
@@ -213,7 +213,7 @@ But I was not fine. It would take me four years to try again. As I examine the r
 
 I LEFT THE APARTMENT in the sky when the sublet there ended and moved back to Brooklyn briefly, to an ill-fated rental there, a one-bedroom apartment with an unfinished wood floor my landlord tried to pass off as hardwood—the carpet staples still in it. I did not complain, unable to tell him he was lying to me. I didn’t bother to unpack, and three months later moved out to Los Angeles—another sublet, this time with a friend in Koreatown, a share in his 4,000-square-foot apartment in a building named for a silent-film star, where I drove his borrowed white Porsche and tried very hard to be who I thought I should be at parties filled with professionally beautiful people I vaguely remembered or didn’t know at all.  
 
-==I told myself I was chasing pleasure after so much grief. That I was writing my new novel. But I was desperate to escape the slow creep of deadness inside, the paralysis I felt in the face of this memory and all that came with it.==[^18] The grief at following my dream of a boy into the woods, into what was just another trap in what felt like an unending series of traps. That I was still doing this was lost on me, though it came to me in moments, and I pushed the knowledge away each time. The paralysis that had stopped me again and again, this was what I was trying to kick away. I ran from myself by moving across the country, and even did the move twice, once out to Los Angeles and then back again, to Maine. I told myself I was making smart decisions, and sometimes I was—selling my second novel, applying to the MacDowell Colony, applying for a job at Amherst College—but that feeling followed me, the feeling of needing to stop and also to scream, as if I thought I could stop what was freezing me from the inside out by scaring it out of me. And there was always a new man, another will-o’-the-wisp of desire that I followed into whatever woods I found. With each move, a raft of boxes followed me, many never unpacked, joined by new ones full of unanswered mail from the previous address.
+I told myself I was chasing pleasure after so much grief. That I was writing my new novel. But I was desperate to escape the slow creep of deadness inside, the paralysis I felt in the face of this memory and all that came with it.[^18] The grief at following my dream of a boy into the woods, into what was just another trap in what felt like an unending series of traps. That I was still doing this was lost on me, though it came to me in moments, and I pushed the knowledge away each time. The paralysis that had stopped me again and again, this was what I was trying to kick away. I ran from myself by moving across the country, and even did the move twice, once out to Los Angeles and then back again, to Maine. I told myself I was making smart decisions, and sometimes I was—selling my second novel, applying to the MacDowell Colony, applying for a job at Amherst College—but that feeling followed me, the feeling of needing to stop and also to scream, as if I thought I could stop what was freezing me from the inside out by scaring it out of me. And there was always a new man, another will-o’-the-wisp of desire that I followed into whatever woods I found. With each move, a raft of boxes followed me, many never unpacked, joined by new ones full of unanswered mail from the previous address.
 
 ---
 
@@ -221,17 +221,17 @@ FOUR YEARS WENT BY.
 
 When I finally found another therapist, I picked him by calling several therapists in the area and listening to their voices—I chose him for his timbre and tone. I went to him for what I thought would be triage after a breakup, something I’d done before. I had just moved to Amherst, Massachusetts, to begin a new job, and I had broken up with my boyfriend shortly after arriving, having discovered a sexually transmitted disease, despite being in what was supposed to have been a monogamous relationship. As I had caught him, the previous fall, trolling online for sex with strangers, and after discussing whether we wanted new rules—non-monogamy, specifically—or an end to our relationship—we had continued, as he’d insisted he wanted neither to be in an open relationship nor to end our relationship. This time, however, after certifying I had gotten my little hygiene problem in the way I believed I had—from him—I ended the relationship with no discussion. It was a minor illness but an unacceptable risk. This was what I thought I would be talking about with the therapist. And while it was where we began, we soon went elsewhere.  
 
-I had been talking about the patterns in my ex’s relationships, but the therapist kept turning me back to mine. He told me I had to stop trying to understand my ex and just accept the fact of him. I needed instead to understand myself. ==My habit of chasing after a fantasy. Do you know this phrase, the therapist with the nice voice asked me after a number of sessions, “In repetition is forgetting”?==  
+I had been talking about the patterns in my ex’s relationships, but the therapist kept turning me back to mine. He told me I had to stop trying to understand my ex and just accept the fact of him. I needed instead to understand myself. My habit of chasing after a fantasy. Do you know this phrase, the therapist with the nice voice asked me after a number of sessions, “In repetition is forgetting”?  
 
 I don’t, I said.  
 
-It’s Freud, he said. It refers to the Freudian repetition cycle. ==We repeat something so that we can forget the pain of it. We set out to get it right instead, to fix what went wrong. But we can never fix the past, he said. We then only repeat it.==  
+It’s Freud, he said. It refers to the Freudian repetition cycle. We repeat something so that we can forget the pain of it. We set out to get it right instead, to fix what went wrong. But we can never fix the past, he said. We then only repeat it.  
 
 *In repetition is forgetting.*   
 
 He was a popular therapist in this town, and in conversation with a friend who was also seeing him, he had mentioned that one of our therapist’s specialties was treating gay men with a history of sexual abuse. I had silently noted this.  
 
-==*We can only break the future, came the thought.*==  [^19]
+*We can only break the future, came the thought.*  [^19]
 
 There is something I should tell you, I said.  
 
@@ -241,9 +241,9 @@ And there, on his office sofa, I remembered my student who had never told her th
 
 I AM WRITING THIS from my future. The one I made from the one I broke, possibly only after that day.  
 
-The therapist gave me an exercise. ==You can’t get rid of the guardians who’ve kept you safe until now, he said. You have to give them new jobs. The jobs they have, they’ve been doing since you were a child.==
+The therapist gave me an exercise. You can’t get rid of the guardians who’ve kept you safe until now, he said. You have to give them new jobs. The jobs they have, they’ve been doing since you were a child.
 
-==I had never thought of them as protectors. The liar on the screen. The one who hid his wound from his mother in shame. The one who kept his hurt secret from his other therapists, trying, alone, to fix himself, unable to even think of saying the words.==[^20] But finally able to write them. Of course each one was doing what I’d essentially told them to do, even if I no longer felt that way or wanted it done. They all were.  
+I had never thought of them as protectors. The liar on the screen. The one who hid his wound from his mother in shame. The one who kept his hurt secret from his other therapists, trying, alone, to fix himself, unable to even think of saying the words.[^20] But finally able to write them. Of course each one was doing what I’d essentially told them to do, even if I no longer felt that way or wanted it done. They all were.  
 
 And then there was the one who’d left me the fragments of that novel like a trail through the woods, from the land I was in to this one. The one planning this world that the novel would make.  
 

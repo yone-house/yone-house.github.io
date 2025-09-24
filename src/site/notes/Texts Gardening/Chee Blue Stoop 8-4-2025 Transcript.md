@@ -8,26 +8,6 @@
 
 # Chee Blue Stoop 8-4-2025 Transcript
 
-All right, hello everyone, thank you so much for joining. Can everyone hear me okay?
-
-Awesome. And we also have some people zooming in here, so I'm… I'm standing on both sides. Um, thank you all so much for joining us. My name is Taylor Towns. I'm one of the co-directors of Blue Stoop.
-
-Um, if you are not aware of what we are, we are a home for Philly writers. We do creative writing workshops, like the one we're having today.
-
-We also do, um, events, opportunities for writers and readers throughout the city and beyond.
-
-Um, and we're really excited to be here with Alexander Chee, learning about the stories you've never seen before.
-
-Um, we are having people Zoom in, so there may be moments if we ask to stop for questions, I might be over here reading from the chat.
-
-Um, and then Alexander will also open up for questions towards the end. If you have any needs.
-
-Please feel free, bathroom is right to your right. And there is also, um, waters and some popcorn.
-
-We're all set to go, and let me just check in and make sure audio is all good here, Julian.
-
-Awesome. We're getting started! Okay? Um.
-
 It's great to be back in Philadelphia. I… And in most cases, uh, I have enough… I'm kind of… epic event for my essay collection year.
 
 Back in 2018 that I… from somewhere in Canada, so it's a pleasure now.
@@ -46,7 +26,7 @@ Identified, uh… you know, I've been… I draw tarot cards for myself periodica
 
 Getting, uh, the hanged man. Card, which is not a great card. Um… Uh, usually means that you're a skin cut of some kind, or you're being… uh, like, some sort of program because of the opinion that you have that's…
 
-Popular, like, maybe to sing Millmarch. And so I… I shifted courses, and then I stopped drawing the Hangman card, so that was a very interesting…
+Popular, like, maybe to sing Middlemarch. And so I… I shifted courses, and then I stopped drawing the Hangman card, so that was a very interesting…
 
 Playing with my name. Um… But, um, I realize that part of what was…
 
