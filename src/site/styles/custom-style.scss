@@ -36,7 +36,8 @@ a.internal-link{
 
     li a.internal-link {
         font-size: 20pt !important;
-        margin-bottom: 15px;
+        margin-bottom: 15px !important;
+        color: blue !important;
     }
 }
 .footnote a{
