@@ -9,7 +9,11 @@
 
 # All Essays in *Unruly Archive* by Stephanie Syjuco
 
-*this is one of my favorite books of art/scholarship of all time. if you like these essays i really suggest buying the [actual book from Radius Books](https://www.stephaniesyjuco.com/projects/stephanie-syjuco-the-unruly-archive-monograph-with-radius-books), if you can. it really sucks that it's not available in a digital format, but i understand that the full book is hard to translate to an online version. however, i produced an html version of the essays below the PDF that is somewhat accessible.*
+*this is one of my favorite books of art/scholarship of all time. if you like these essays i really suggest buying the [actual book from Radius Books](https://www.stephaniesyjuco.com/projects/stephanie-syjuco-the-unruly-archive-monograph-with-radius-books), if you can&mdash;there is so much more to it than just these essays.*
+
+*it really sucks that this important book is not available in a digital format, but i understand that the full book is hard to translate to an online version.*
+
+*however, [[#HTML / Markdown Version|i produced an html version of the essays displayed below the PDF that is somewhat accessible]]. PDF is <span style="text-decoration: underline">not</span> accessible*
 
 ---
 ## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)
@@ -88,7 +92,7 @@ As I deepened into this work, I encountered the obvious: there is no escaping th
 
 After that project, and all it revealed to me, I did begin to step into institutional spaces, if tentatively at first. I worked in university archives, historical societies, museums' papers. I did so while continuing to assemble my own catalog of found images-sometimes blending the two, not so exclusive as I once thought. And new paths have emerged (archives are like that, always opening trap doors). In the last few years, I have begun to work in close collaboration with feminist organizations and the women who run them-domestic violence advocacy and support organizations in Philadelphia and Denver, abortion clinics across the Midwest-which has been an education in trust building and reciprocity. It is a reminder for me, after all those years of working alone in the studio, that there are no social movements, and no archives of those same movements, without solidarity. Without people. And, for my part as an artist, there is no work about care work without the conditions of care. The relationships that have come from this work have been among the most meaningful of my life, and the engine for all that follows. This is the real animating force of archive work for me: in dealing with objects that belong to others, we are drawn closer. 
 
-> ***[Image in PDF]***
+![winant001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/winant001.jpg)
 > 
 > Carmen Winant, *My Birth*, 2018 
 > Found images, tape. 
@@ -111,7 +115,7 @@ I deliberate about who and what to name and cite. Within my performance lecture 
 
 Much of my current work makes connections across distinct groups for possible solidarities: Pan-Asian (not narrowed to East Asia, as that term is typically construed in the United States), the tropical zone, the Global South, and populations with shared histories of exploitation and colonialism. We will not be separated and isolated in the present or erased from the future. And archives are key to this&mdash;investigating, correcting, activating, supplementing, expanding, and reimagining the archive.
 
-> ***[Image in PDF]***
+> ![suparak_washington001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/suparak_washington001.jpg)
 > 
 > Astria Suparak & Caroline Washington, *Helmet to Helmet*, collage, 8 x 10 inches, 2021 
 > 
@@ -136,7 +140,7 @@ The histories I engage with in my practice, and I see as materially and aestheti
 
 This is where I'd like to propose a different approach to the question of the archive in contemporary art practice. What if our approach, as contemporary artists, is informed by the belief that there is already no power in the archive? When the institution is deprived, are the buildings and the catalogs any more than the ruins of the dispossessed&mdash;ruins to engage with not as forensic sites but as the plane for the emergence of new a poetics? 
 
-> ***[Image in PDF]***
+> ![khoshgozaran_design_for_anonymous_rug001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/khoshgozaran_design_for_anonymous_rug001.jpg)
 > 
 > Design for "anonymous rug," 2022. The design uses interior or exterior elements from the current building of David Zwirner Gallery (former Consulate General of Iran) in New York, the architectural plan, and an animal relief that used to adorned the main door of the former Iranian Embassy in Washington, DC. The bespoke rug was produced in color, with hand tufted New Zealand wool, and is 41⁄2 x 6 feet in dimension. Concept: Gelare Khoshgozaran. Design: Sina Fakour. 
 
@@ -185,7 +189,7 @@ the most interesting thing about archives has nothing to do with archives-it's t
 
 archives are profound and violent&mdash;like any good poem, everything is at stake. 
 
-> ***[Image in PDF]***
+> ![lazarus001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/lazarus001.jpg)
 > 
 > Jason Lazarus, *Phase 1 Live Archive*, 2011&ndash;present 
 > 
@@ -228,7 +232,7 @@ As a steward of this archive, I am working with a small but fiercely committed t
 
 As an artist and descendent, I'm constantly searching for the nuance in my ancestors' experiences. When I hit a wall sifting through archival records, I lean into other ways of knowing: working with ancestral astrologers and spirit mediums; traveling to relevant geographies to smell the air and see how the light falls; botanical research into the average age of walnut trees; oral histories with extended family; and anything else that might bring me closer to my ancestors' interiority. The archive serves as an entry point that can generate as many questions as it answers. Our curiosity brings these collections to life. 
 
-> ***[Image in PDF]***
+> ![wood001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/wood001.jpg)
 > 
 > Savannah Wood, *Martha's Vision*, 2020
 > scanned 4 x 5 negative, 2018
@@ -254,7 +258,7 @@ These are the moments that I cherish the most. When I find those connections in 
 
 One question that is asked of me is how I feel about these institutions that have my community's possessions. I'm never able to answer that question. I feel too many feelings: I feel excited to see what they have, I feel anxiety, I feel like this is my one chance to see these materials, I feel sad, I feel conflicted, but most of all I feel that I need to make the most of these visits. I can share the voices and the knowledge from these possessions kept in these vaults, on these shelves, tucked away in cabinets miles away from their origin, from their community. I can become my own archive. I can be the archive for those objects that are hard to access. I can be a resource, and I can share in my unique way of learning through my art. When I'm gone, I will become the archive for my daughter, my family, and the Apsáalooke. I will be an archive that provides access to my community, an archive that is warm not cold, an archive the speaks in collaboration with the community and the ancestors that came before. 
 
-> ***[Image in PDF]***
+> ![red_star001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/red_star001.jpg)
 > 
 > Detail of Nellie Scratches Herself's dress, with beaded yoke detail, in the NMAI collection. 
 
@@ -273,7 +277,7 @@ In the wake of *The New York Times* disappearing Stormé from their paper, I wen
  
 Deep in the microfiche archives of the New York Public Library, there was Stormé, a big grin on her handsome face, her body framed by two photographs of her past selves. I cut and spliced to reconfigure the narrative, to bring her ghost back into the room. In *Stormé at Stonewall*[^8], these collaged texts&mdash;fragments of one article pieced with others&mdash;are printed on translucent Duratrans with neon illuminating them so that the visible intertwined with the invisible becomes the site of the story. The light boxes, choreographed to flicker via four-channel oscillator, occupy, like an apparition, the in-between space and illuminate and summon Stormé into the room. 
 
-> ***[Image in PDF]***
+> ![roberts001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/roberts001.jpg)
 > 
 > LJ Roberts, *Stormé at Stonewall* [detail], 2019 
 > Fourteen collaged light boxes and four-channel oscillator, dimensions variable. National Portrait Gallery, Smithsonian Institution; purchase funded by Tommie L. Pegues and Donald A. Capoccia, NPG.2022.11, LJ Roberts 
@@ -295,7 +299,7 @@ In the face of archival absence, I return to Hartman's imaginative experiment wi
 
 To visualize and imagine these unknown Benin Bronzes, I have trained a Generative AI model on a dataset of looted Benin Bronzes. The resulting AI-generated prototypes do not suggest any fidelity to the truth but simply point to an experiment that gives visibility to objects that could exist outside verifiable archival records. 
 
-> ***[Image in PDF]***
+> ![atairu001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/atairu001.jpg)
 > 
 > Image of a terracotta sculpture generated using the algorithm titled *Igùn Prototype VII* (2023) in response to the question: *What raw materials could have been utilized during the seventeen-year artistic decline?*
 
@@ -320,7 +324,7 @@ The gesture of inscribing these ephemera onto marble monumentalises the paper tr
  
 The title of the series, *Thoughtful Gifts*, is itself indicative of the violence of taxonomy within the archive, a mutual by-product of lazy categorisation and wilful obfuscation. A collection of gifts from the unsavoury characters that were embraced by Reagan's realpolitik were labelled "thoughtful gifts" by the White House. This classification included a life-size American eagle statue ornamented with seashells and mother of pearl presented by the Marcoses during a controversial 1982 state visit; a kitsch folk painting from the Guatemalan president Efraín Ríos Montt depicting the very same Mayan Indians that were massacred during his regime; and an oil paint portrait of British Prime Minister Margaret Thatcher gifted to the Reagans on the proviso that it be on permanent and prominent display. Within this seemingly benign nomenclature is a nexus of individuals, communities, and ideologies that have benefited from and been annihilated by the United States's quest for geopolitical dominance and the perpetuation of its political mythologies. 
 
-> ***[Image in PDF]***
+> ![abad001.jpg](/img/user/Texts%20Gardening/Text%20Attachments/abad001.jpg)
 >  
 > Pio Abad, *Thoughtful Gifts (October 20, 1988)*, 2020 
 > 
