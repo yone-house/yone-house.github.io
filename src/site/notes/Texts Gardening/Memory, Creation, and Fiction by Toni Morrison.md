@@ -6,8 +6,10 @@
 ## [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/The Guardians - Alexander Chee\|⇾ next page]]
 
 ---
-# “ Memory, Creation, and Fiction” by Toni Morrison
+# “Memory, Creation, and Fiction” by Toni Morrison
 *As published in "The Source of Self-Regard: Selected Essays, Speeches, and Meditations" by Toni Morrison, 2019*
+
+---
 
 > It is not enough for a work of art to have ordered planes and lines. If a stone is tossed at a group of children, they hasten to scatter. A regrouping, an action, has been accomplished. This is composition. This regrouping, presented by means of color, lines, and planes is an artistic and painterly motif. 
 > 
