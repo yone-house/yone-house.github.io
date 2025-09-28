@@ -13,9 +13,7 @@
 
 *it really sucks that this important book is not available in a digital format, but i understand that the full book is hard to translate to an online version.*
 
-
-
-*however, <a href="#html-markdown-version">i produced an html version of the essays displayed below the PDF that is somewhat accessible</a>. PDF is <span style="text-decoration: underline">not</span> text accessible *
+*however, <a href="#html-markdown-version">i produced an html version of the essays displayed below the PDF that is somewhat accessible</a>. PDF is <span style="text-decoration: underline">not</span> accessible*
 
 ---
 ## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)
