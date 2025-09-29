@@ -58,3 +58,17 @@ h2 a, h3 a{
     font-size: 20pt !important;
     color: blue !important;
 }
+
+.book p{
+    text-indent: .25in;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    font-size: 13pt;
+    margin: 0;
+}
+
+.book p br::after{
+    content: "";
+    display: inline-block;
+    width: .25in;
+}
