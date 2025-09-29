@@ -3,7 +3,7 @@
 ---
 
 
-## [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/The Guardians - Alexander Chee\|⇾ next page]]
+## [[Texts Gardening/Mr. Can'aan by Isabella Hamad\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/The Guardians - Alexander Chee\|⇾ next page]]
 
 ---
 # “Memory, Creation, and Fiction” by Toni Morrison
@@ -70,4 +70,4 @@ In the writing of *Tar Baby*, *memory* meant recollecting the told story. I refu
 7. The revelation, then, is the revelation of secrets. Everybody with one or two exceptions has a secret: secrets of acts committed (as with Margaret and Son), and secrets of thoughts unspoken but driving nonetheless (as with Valerian and Jadine). And then the deepest and earliest secret of all: that just as we watch other life, other life watches us
 
 ---
-## [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/The Guardians - Alexander Chee\|⇾ next page]]
+## [[Texts Gardening/Mr. Can'aan by Isabella Hamad\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/The Guardians - Alexander Chee\|⇾ next page]]
