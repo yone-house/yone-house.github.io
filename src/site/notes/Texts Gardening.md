@@ -9,6 +9,8 @@
 
 Full texts I have collected and/or transcribed in various journeys. All feel important to me. Some have annotations.
 
+I doubt this will happen but if anyone wants anything taken down, let me know at doorbell@yone.house & I'll do that.
+
 *View the graph or links at the bottom to search through directory and structure, or just jump in with the links below.*
 
 ---

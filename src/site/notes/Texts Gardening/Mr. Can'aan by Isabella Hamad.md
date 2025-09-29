@@ -7,7 +7,7 @@
 
 ---
 
-# *Mr. Can'aan* by Isabella Hamad
+# "Mr. Can'aan" by Isabella Hamad
 https://rustedradishes.com/mr-canaan/
 
 ## **I**
@@ -23,7 +23,6 @@ Sam did not move immediately. He could see the mouth, though dunked momentarily 
 
 &ensp;
 &ensp;
-&ensp;
 
 "And his eyes," said Sam. "They were open."
 
@@ -35,7 +34,6 @@ Well, of course he had buried him. He searched the body, holding his breath agai
 
 Sam looked at Jibril beside him and waited for a response. He wondered if he should have told the story differently. Jibril said nothing. He looked out to sea, where an oncoming fog was starting to overwhelm the Corniche. 
 
-&ensp;
 &ensp;
 &ensp;
 
@@ -95,7 +93,6 @@ Now that they were in their sixties, Jibril was still almost as slender as he ha
 
 &ensp;
 &ensp;
-&ensp;
 
 As a local historian, Jibril spent half his time compiling catalogues of displaced Haifa families, their names, their professions, their houses, combing old newspapers for clues; drawing old maps of the neighbourhoods, collecting oral histories, and so on. The other half of his time was spent writing applications to European bodies for grants. He was a figure about town, Jibril Tamimi, as recognizable from high up the mountain as from below on the beach: tall, sloping shoulders, tanned forehead, a shock of white hair; and up close his slightly fanged teeth, his crows' feet, his gentle manner-ah, the historian Jibril, they would say, the _angel!_ Of course I know Jibril, of course I have his number! 
 
@@ -109,7 +106,6 @@ Mr Can'aan's name had since begun to crop up with peculiar frequency. First in a
 
 Except that Mr. Can'aan had called him on the telephone to say he would be delayed. Well. What was a day after years of searching? He threw Sam his windproof coat. They would meet him in the morning, at nine o'clock, on the corner of Anna-Heer-Strasse. 
 
-&ensp;
 &ensp;
 &ensp;
 
@@ -181,7 +177,8 @@ Mira laughed.
 
 Jibril said: "What are you doing, man?"  
 
-"No-really. Not _Samira_," Sam shook his head jokily, already intimate; "No-Abdul Salam. It's a name I always remember. Because I once buried a man called Abdul Salam."  
+"No-really. Not _Samira_," Sam shook his head jokily, already intimate; "No-Abdul Salam. It's a name I always remember. Because I once buried a man called Abdul Salam." 
+
 "Oh yeah," said Jibril. "Yeah I know this story."  
 
 Jibril's tone was not dismissive: He had taken up the pipe with choral solemnity, assumed a thoughtful silence. Mira said nothing.  
@@ -196,7 +193,6 @@ In 1967, Samira's grandfather Mahmoud Abdul Salam was martyred near Wadi Far'ah 
 
 But the story of bereavement, and the duty, somehow, to give him a proper burial, was passed on. First to the eldest son, Mira's father; then to the second eldest, the father of my friend, and on down. My friend said he already felt it had fallen to him.
 
-&ensp;
 &ensp;
 &ensp;
 
@@ -241,7 +237,6 @@ Outside, it had turned cold. 
 
 "No," said Sam. He inhaled, as though to speak. Then he let the breath go.
 
-&ensp;
 &ensp;
 &ensp;
 

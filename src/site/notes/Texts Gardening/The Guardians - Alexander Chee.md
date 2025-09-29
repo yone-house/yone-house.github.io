@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-gardening/the-guardians-alexander-chee/"}
+{"dg-publish":true,"permalink":"/texts-gardening/the-guardians-alexander-chee/","contentClasses":"book"}
 ---
 
 ## [[Texts Gardening/Memory, Creation, and Fiction by Toni Morrison\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Syjuco Unruly Archive All Essays\|⇾ next page]]
@@ -261,7 +261,7 @@ I had written a novel that, after it was published, let me practice saying what 
 
 [^6]: lol... trying
 
-[^7]: 乁⁠(•⁠_⁠•⁠)⁠ㄏ In maybe the smallest possible font. Xxxx xxx
+[^7]: 乁⁠(•⁠_⁠•⁠)⁠ㄏ XXXXxxxxxx. Xxxx xxx
 
 [^8]: Xxxxxxxxx
 
