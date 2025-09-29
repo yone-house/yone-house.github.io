@@ -70,10 +70,10 @@ h2 a, h3 a{
 .book p br::after{
     content: "";
     display: inline-block;
-    width: .25in;
+    width: .5in;
 }
 
 .book h2 {
-    margin: 80px auto 30px auto;
+    margin: 100px auto 30px auto;
     text-align: center;
 }
