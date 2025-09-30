@@ -71,12 +71,6 @@ h2 a, h3 a{
     margin: 0;
 }
 
-.book p br::after{
-    content: "";
-    display: inline-block;
-    width: .5in;
-}
-
 .book h2 {
     margin: 100px auto 30px auto;
     text-align: center;
