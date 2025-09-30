@@ -14,4 +14,4 @@ Accompanying texts might be found in Texts Gardening 📖, but maybe not. I do h
 *View the graph or links at the bottom to search through directory and structure, or just jump in with the links below.*
 
 ---
-## [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|previous page ⇽]]  📑  [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
+### [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|previous page ⇽]]  📑  [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]

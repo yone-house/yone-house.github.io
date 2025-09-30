@@ -15,4 +15,4 @@ writing on this feels like i am just journaling (i do keep my journal in a diffe
 i am using the [LaTeX community theme](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/LaTeX) in my editor as well as on the site, though there's a bit of custom css for the site itself.
 
 ---
-## [[Thoughts Gardening/seed bank\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/access\|⇾ next page]]
+### [[Thoughts Gardening/seed bank\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/access\|⇾ next page]]

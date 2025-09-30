@@ -16,4 +16,4 @@ Unfortunately, <span style="text-decoration: underline">no images have real alt 
 *View the graph or links at the bottom to search through directory and structure, or just jump in with the links below.*
 
 ---
-## [[Images Gardening/Good Emoji Collabs\|previous page ⇽]]  🖼️  [[Images Gardening/Ginkgo Graphics\|⇾ next page]]
+### [[Images Gardening/Good Emoji Collabs\|previous page ⇽]]  🖼️  [[Images Gardening/Ginkgo Graphics\|⇾ next page]]

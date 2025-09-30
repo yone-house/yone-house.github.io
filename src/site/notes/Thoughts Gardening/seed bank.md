@@ -9,4 +9,4 @@ one thing i like about Obsidian is that all these .md files are locally stored o
 a lot of things would have to fail to *completely* erase the content of this site, even if they aren't publicly accessible or prettily styled. there is some kind of... seed banking happening there.
 
 ---
-## [[Thoughts Gardening/garden design\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/what i see\|⇾ next page]]
+### [[Thoughts Gardening/garden design\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/what i see\|⇾ next page]]

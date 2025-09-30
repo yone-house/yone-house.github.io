@@ -40,4 +40,4 @@ maybe.
 [^1]: i have been spending a lot of time in the basement of the Masonic Temple near City Hall & that building is soooo labyrinthine (and you can even walk in many of the walls, so the rooms are like a labyrinth in a labyrinth). however, it is not at all meditative and is incredibly spooky.
 
 ---
-## [[Thoughts Gardening/access\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/what i entrust\|⇾ next page]]
+### [[Thoughts Gardening/access\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/what i entrust\|⇾ next page]]

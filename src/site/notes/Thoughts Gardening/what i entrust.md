@@ -35,4 +35,4 @@ while i make this site
 makes me happy.
 
 ---
-## [[Thoughts Gardening/labyrinthine\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/garden design\|⇾ next page]]
+### [[Thoughts Gardening/labyrinthine\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/garden design\|⇾ next page]]

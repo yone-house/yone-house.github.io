@@ -15,4 +15,4 @@ Right now most of them are about this website itself.
 
 ---
 
-## [[Thoughts Gardening/access\|previous page ⇽]] 💬 [[Thoughts Gardening/what i entrust\|⇾ next page]]
+### [[Thoughts Gardening/access\|previous page ⇽]] 💬 [[Thoughts Gardening/what i entrust\|⇾ next page]]
