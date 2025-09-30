@@ -3,7 +3,7 @@ Built from the template for [Digital Garden Obsidian Plugin](https://github.com/
 
 ---
 ## GitHub Pages
-Added [this action](https://github.com/oleeskild/obsidian-digital-garden/discussions/389#discussioncomment-12950082) to deploy on GitHub Pages.
+Added [this action](https://github.com/oleeskild/obsidian-digital-garden/discussions/389#discussioncomment-12950082) to deploy on GitHub Pages. (found in .github/workflows/build.yml)
 
 ---
 ## Content
