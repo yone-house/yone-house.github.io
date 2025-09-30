@@ -3,11 +3,9 @@
 ---
 
 
-## [[Texts Gardening/The Guardians - Alexander Chee\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
-
----
-
 # All Essays in *Unruly Archive* by Stephanie Syjuco
+
+<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
 *this is one of my favorite books of art/scholarship of all time. if you like these essays i really suggest buying the [actual book from Radius Books](https://www.stephaniesyjuco.com/projects/stephanie-syjuco-the-unruly-archive-monograph-with-radius-books), if you can&mdash;there is so much more to it than just these essays.*
 
@@ -334,4 +332,5 @@ The title of the series, *Thoughtful Gifts*, is itself indicative of the violenc
 > Carnegie Museum of Art
 
 ---
-## [[Texts Gardening/The Guardians - Alexander Chee\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
+## Texts Gardening
+### [[Texts Gardening/The Guardians - Alexander Chee\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]

@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/texts-gardening/chee-blue-stoop-8-4-2025-transcript/"}
 ---
 
-## [[Texts Gardening/Loose Leaf by Lindsay Eales\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Mr. Can'aan by Isabella Hamad\|⇾ next page]]
-
----
 
 # Chee Blue Stoop 8-4-2025 Transcript
+
+<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
 It's great to be back in Philadelphia. I… And in most cases, uh, I have enough… I'm kind of… epic event for my essay collection year.
 
@@ -1815,5 +1814,5 @@ They feel all the different safety.
 [^18]: "enter into an interesting place with them together"
 
 ---
-
-## [[Texts Gardening/Loose Leaf by Lindsay Eales\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Mr. Can'aan by Isabella Hamad\|⇾ next page]]
+## Texts Gardening
+### [[Texts Gardening/Loose Leaf by Lindsay Eales\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Mr. Can'aan by Isabella Hamad\|⇾ next page]]

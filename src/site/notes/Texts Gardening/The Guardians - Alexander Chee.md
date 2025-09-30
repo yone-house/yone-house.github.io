@@ -2,13 +2,12 @@
 {"dg-publish":true,"permalink":"/texts-gardening/the-guardians-alexander-chee/","contentClasses":"book"}
 ---
 
-## [[Texts Gardening/Memory, Creation, and Fiction by Toni Morrison\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Syjuco Unruly Archive All Essays\|⇾ next page]]
-
----
 
 # *The Guardians* by Alexander Chee
 From *How to Write an Autobiographical Novel*
 *annotated by me*
+
+<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
 ## 1
 
@@ -290,5 +289,5 @@ I had written a novel that, after it was published, let me practice saying what 
 [^20]: Xxxxxxxxx
 
 ---
-
-## [[Texts Gardening/Memory, Creation, and Fiction by Toni Morrison\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/Syjuco Unruly Archive All Essays\|⇾ next page]]
+## Texts Gardening
+### [[Texts Gardening/Memory, Creation, and Fiction by Toni Morrison\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/Syjuco Unruly Archive All Essays\|⇾ next page]]

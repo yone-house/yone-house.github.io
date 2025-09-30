@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/texts-gardening/yoko-tawada-ueberseezungen-transcultural-language-games-transcript/"}
 ---
 
-## [[Texts Gardening/Syjuco Unruly Archive All Essays\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Loose Leaf by Lindsay Eales\|⇾ next page]]
-
----
 
 # Yoko Tawada; Überseezungen; Transcultural Language Games (transcript) 
+
+<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
 (University of Arizona, 2006-02-10)
 [Link to webpage with videos](https://voca.arizona.edu/reading/yoko-tawada-february-10-2006)
@@ -214,5 +213,5 @@ And you speak of the difficulties of [INAUDIBLE],, of swearing in your languag
 [APPLAUSE]
 
 ---
-
-## [[Texts Gardening/Syjuco Unruly Archive All Essays\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Loose Leaf by Lindsay Eales\|⇾ next page]]
+## Texts Gardening
+### [[Texts Gardening/Syjuco Unruly Archive All Essays\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Loose Leaf by Lindsay Eales\|⇾ next page]]

@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/texts-gardening/loose-leaf-by-lindsay-eales/"}
 ---
 
-## [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
-
----
 
 # "Loose Leaf" by Lindsay Eales
+
+<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
 *formatting works best on desktop or mobile landscape view*
 
@@ -19,5 +18,6 @@ Eales, Lindsay. 2016. “Loose Leaf”. _Canadian Journal of Disability Studies
 
 ---
 
-## [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
+## Texts Gardening
+### [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|⇾ next page]]
 
