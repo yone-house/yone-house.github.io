@@ -35,4 +35,4 @@ while i make this site
 makes me happy.
 
 ---
-### [[Thoughts Gardening/access\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/garden design\|⇾ next page]]
+### [[Thoughts Gardening/access\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/garden relationships\|⇾ next page]]
