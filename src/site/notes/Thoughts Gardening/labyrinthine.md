@@ -5,17 +5,9 @@
 
 # labyrinthine
 
-i wish i could physically walk through the structure of this site, as seen on the global graph. like what it looks like in the global graph:
+i wish i could physically walk through the structure of this site, as seen on the global graph.
 
-<div id="full-graph-container">
-	<div class="force-graph-container" style="position: relative;">
-		<canvas style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 540px; height: 540px;" width="1215" height="1215" class=""></canvas>
-		<div class="graph-tooltip" style="top: 9.21875px; left: 475.33px; transform: translate(-88.024%, 21px); visibility: hidden;">
-		</div>
-	</div>
-</div>
-
-i feel it would be meditative to physically meander between the pages and look at them as i want. something like a prayer labyrinth. it is a nice design for that. it would be fun to have a physical layout of a website with the pages as nodes and the links as paths between them. and the content on the pages printed out and placed at each node. hmm.
+i think it would be meditative to physically meander between the pages and look at them as i want&mdash;this site is a nice design for that. it would be so fun to have a physical layout of a website with the pages as nodes and the links as paths between them. and the content on the pages printed out and placed at each node. hmm.
 
 something like a prayer labyrinth. i don't think this site is quite complex enough to be considered "labyrinthine," however, neither are most prayer labyrinths, they're just like concentric circles usually. i know they're used in many cultures but i only know abt the catholic ones. 
 
@@ -43,7 +35,7 @@ i like labyrinthine walking.[^1] however, re: the prayer labyrinths...:
 
 this is such a crazy piece of writing. perhaps i among the "women religious, in older congregations, who, after having rejected the traditional forms of piety with which they were raised, fix their attention on other forms while trying to maintain a sense of continuity with the past."
 
-probably.
+maybe.
 
 [^1]: i have been spending a lot of time in the basement of the Masonic Temple near City Hall & that building is soooo labyrinthine (and you can even walk in many of the walls, so the rooms are like a labyrinth in a labyrinth). however, it is not at all meditative and is incredibly spooky.
 
