@@ -89,12 +89,13 @@ h2 a, h3 a{
     background-image: linear-gradient(to top, rgb(207, 207, 207) 16%, rgb(252, 252, 252) 79%); 
     padding: 3px;
     border: 1px solid #000;
-    color: black;
+    color: black !important;
     text-decoration: none;
     text-align: right
 }
 
 a:focus, a:hover {
-    outline: darkgreen;
-    border-radius: 5px;
+    outline: 2px solid darkgreen !important;
+    text-shadow: 0 0 5px grey !important;
+    border-radius: 5px !important;
 }
