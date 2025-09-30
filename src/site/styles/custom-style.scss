@@ -29,6 +29,10 @@ a.internal-link{
     font-family: "Xanh Mono", serif !important
 }
 
+li a.internal-link {
+    color: blue !important;
+}
+
 @media (max-width: 738px) {
     h3 a.internal-link{
         font-size: 15pt !important;
