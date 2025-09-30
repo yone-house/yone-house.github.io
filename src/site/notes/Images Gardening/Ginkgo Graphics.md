@@ -3,10 +3,9 @@
 ---
 
 
-## [[Images Gardening/Signs over 5\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
-
----
 # Ginkgo Graphics
+
+<a id="jump-to-nav" href="#images-gardening">jump to page navigation ⇩</a>
 
 > [!NOTE]
 > ![PXL_20250917_184018351.jpg](/img/user/Images%20Gardening/ginkgo%20graphics%20attachments/PXL_20250917_184018351.jpg)
@@ -51,4 +50,5 @@
 
 ---
 
-## [[Images Gardening/Signs over 5\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]
+## Images Gardening
+### [[Images Gardening/Signs over 5\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Good Emoji Collabs\|⇾ next page]]

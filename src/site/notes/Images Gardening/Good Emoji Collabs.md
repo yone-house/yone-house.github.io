@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/images-gardening/good-emoji-collabs/"}
 ---
 
-## [[Images Gardening/Ginkgo Graphics\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Not Food\|⇾ next page]]
-
----
 
 # Good Emoji Collabs
+
+<a id="jump-to-nav" href="#images-gardening">jump to page navigation ⇩</a>
 
 found images used in personal messages
 
@@ -39,5 +38,5 @@ found images used in personal messages
 ![IMG_20250921_105927.png](/img/user/Images%20Gardening/good%20emoji%20collabs%20attachments/IMG_20250921_105927.png)
 
 ---
-
-## [[Images Gardening/Ginkgo Graphics\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Not Food\|⇾ next page]]
+## Images Gardening
+### [[Images Gardening/Ginkgo Graphics\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Not Food\|⇾ next page]]

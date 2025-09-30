@@ -3,10 +3,9 @@
 ---
 
 
-## [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Time Is the Thing a Body Moves Through - T. Fleischmann - annotations\|⇾ next page]]
-
----
 # The Marrow's Telling: Words in Motion - Eli Clare - annotations
+
+<a id="jump-to-nav" href="#annotations-gardening">jump to page navigation ⇩</a>
 
 ---
 
@@ -158,4 +157,5 @@ written 1992
 
 -------------------
 
-## [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Time Is the Thing a Body Moves Through - T. Fleischmann - annotations\|⇾ next page]]
+## Annotations Gardening
+### [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Time Is the Thing a Body Moves Through - T. Fleischmann - annotations\|⇾ next page]]

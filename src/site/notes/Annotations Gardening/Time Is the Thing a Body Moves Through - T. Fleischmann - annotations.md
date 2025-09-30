@@ -3,11 +3,9 @@
 ---
 
 
-## [[Annotations Gardening/The Marrow's Telling_Words in Motion - Eli Clare - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]
-
----
-
 # Time Is the Thing a Body Moves Through - T. Fleischmann - annotations
+
+<a id="jump-to-nav" href="#annotations-gardening">jump to page navigation ⇩</a>
 
 ---
 
@@ -354,4 +352,5 @@ Publick that understood their gender, and also the first writing that meaningful
 
 -------------------
 
-## [[Annotations Gardening/The Marrow's Telling_Words in Motion - Eli Clare - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]
+## Annotations Gardening
+### [[Annotations Gardening/The Marrow's Telling_Words in Motion - Eli Clare - annotation\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/How to Write an Autobiographical Novel-Alexander Chee-annotations\|⇾ next page]]

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/annotations-gardening/how-to-write-an-autobiographical-novel-alexander-chee-annotations/"}
 ---
 
-## [[Annotations Gardening/Time Is the Thing a Body Moves Through - T. Fleischmann - annotations\|previous page ⇽]] [[Annotations Gardening\|📑]]  [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
 
----
 # How to Write an Autobiographical Novel - Alexander Chee - annotations
 *exported 2025-08-29*
+
+<a id="jump-to-nav" href="#annotations-gardening">jump to page navigation ⇩</a>
 
 ---
 ## The Writing Life
@@ -250,4 +250,5 @@ Or choose a name with the same music.
 
 -------------------
 
-## [[Annotations Gardening/Time Is the Thing a Body Moves Through - T. Fleischmann - annotations\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]
+## Annotations Gardening
+### [[Annotations Gardening/Time Is the Thing a Body Moves Through - T. Fleischmann - annotations\|previous page ⇽]]  [[Annotations Gardening\|📑]]  [[Annotations Gardening/Feminist, Queer, Crip - Alison Kafer - annotation\|⇾ next page]]

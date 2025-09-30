@@ -3,11 +3,9 @@
 ---
 
 
-## [[Images Gardening/Not Food\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Ginkgo Graphics\|⇾ next page]]
-
----
-
 # Signs Over 5
+
+<a id="jump-to-nav" href="#images-gardening">jump to page navigation ⇩</a>
 
 Signs in my camera roll over 5 years old (before I really started collecting them). I am certain that I found some of these on the internet and/or some were sent to me, but don't remember exactly which ones.
 
@@ -62,5 +60,5 @@ Signs in my camera roll over 5 years old (before I really started collecting the
 ![[IMG_0740.JPG]]
 
 ---
-
-## [[Images Gardening/Not Food\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Ginkgo Graphics\|⇾ next page]]
+## Images Gardening
+### [[Images Gardening/Not Food\|previous page ⇽]] [[Images Gardening\|🖼️]] [[Images Gardening/Ginkgo Graphics\|⇾ next page]]
