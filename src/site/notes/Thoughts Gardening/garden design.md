@@ -7,7 +7,7 @@
 
 i've been drawing a lot on my architectural history education in thinking about this site as a "garden." and i have a lot of thoughts about it.
 
-i was just revisiting some readings from college, about design that has to do with "gardens"&mdash;landscape design in parks, cemeteries, religious and private complexes across cultures & time, "garden cities" and public housing, indigenous gardening and agricultural practices, Modernist "ideal city" designs, etc. etc.
+i was just revisiting some readings from college, about design that has to do with "gardens"&mdash;landscape design in parks, cemeteries, religious and private complexes across cultures & time, "[garden cities](https://en.wikipedia.org/wiki/Garden_city_movement)" and public housing, indigenous gardening and agricultural practices, Modernist "ideal city" designs, etc. etc.
 
 i was also thinking about gardens & parks & natural landscapes that are dearest to me, and how they are laid out.
 
