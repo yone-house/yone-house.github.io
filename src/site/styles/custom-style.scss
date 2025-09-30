@@ -29,9 +29,9 @@ a.internal-link{
     font-family: "Xanh Mono", serif !important
 }
 
-@media (max-width: 600px) {
+@media (max-width: 738px) {
     h3 a.internal-link{
-        font-size: 13pt !important;
+        font-size: 14pt !important;
         color: blue !important;
     }
 
@@ -91,17 +91,18 @@ h2 a, h3 a{
     background-image: linear-gradient(to top, rgb(207, 207, 207) 16%, rgb(252, 252, 252) 79%); 
     padding: 3px;
     border: 1px solid #000;
-    color: black !important;
+    color: #967969 !important;
     text-decoration: none;
     text-align: right
 }
 
 a:focus {
     outline: 1px solid grey !important;
-    text-shadow: 0 0 3px brown !important;
+    text-shadow: 0 0 1px #967969 !important;
+    box-shadow: 0 0 2px grey;
     border-radius: 3px !important;
 }
 
 a:hover {
-    text-shadow: 0 0 3px brown !important;
+    text-shadow: 0 0 2px #967969 !important;
 }
