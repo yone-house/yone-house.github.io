@@ -333,4 +333,4 @@ The title of the series, *Thoughtful Gifts*, is itself indicative of the violenc
 
 ---
 ## Texts Gardening
-### [[Texts Gardening/The Guardians - Alexander Chee\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
+### [[Texts Gardening/The Guardians - Alexander Chee\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/The Three Sisters by Robin Wall Kimmerer\|⇾ next page]]

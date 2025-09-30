@@ -14,4 +14,4 @@ I doubt this will happen but if anyone wants anything taken down, let me know at
 *View the graph or links at the bottom to search through directory and structure, or just jump in with the links below.*
 
 ---
-### [[Texts Gardening/Syjuco Unruly Archive All Essays\|previous page ⇽]]  📖  [[Texts Gardening/Yoko Tawada; Überseezungen; Transcultural Language Games (transcript)\|⇾ next page]]
+### [[Texts Gardening/Syjuco Unruly Archive All Essays\|previous page ⇽]]  📖  [[Texts Gardening/The Three Sisters by Robin Wall Kimmerer\|⇾ next page]]

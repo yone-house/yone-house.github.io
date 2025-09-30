@@ -214,4 +214,4 @@ And you speak of the difficulties of [INAUDIBLE],, of swearing in your languag
 
 ---
 ## Texts Gardening
-### [[Texts Gardening/Syjuco Unruly Archive All Essays\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Loose Leaf by Lindsay Eales\|⇾ next page]]
+### [[Texts Gardening/The Three Sisters by Robin Wall Kimmerer\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Loose Leaf by Lindsay Eales\|⇾ next page]]

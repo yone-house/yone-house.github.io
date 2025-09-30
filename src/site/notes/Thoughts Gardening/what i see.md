@@ -8,11 +8,12 @@ i am editing this file as a .md file in [Obsidian,](https://en.wikipedia.org/wik
 
 > [!NOTE]
 > ![what-i-see-screenshot.jpg](/img/user/Thoughts%20Gardening/thoughts%20attachments/what-i-see-screenshot.jpg)
+> a screenshot of the markdown document this page is generated from
 > meta moment
 
 writing on this feels like i am just journaling (i do keep my journal in a different vault in this app), and then i press a button and it's out there.
 
-i am using the [LaTeX community theme](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/LaTeX) in my editor as well as on the site, though there's a bit of custom css for the site itself.
+idk, just wanted to show you what this looks like to me
 
 ---
 ### [[Thoughts Gardening/seed bank\|previous page ⇽]] [[Thoughts Gardening\|💬]] [[Thoughts Gardening/access\|⇾ next page]]
