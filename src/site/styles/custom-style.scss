@@ -72,12 +72,16 @@ h2 a, h3 a{
 }
 
 .book p a{
-    text-indent: -.5in;
+    margin-left: -.5in;
 }
 
 .book h2 {
     margin: 100px auto 30px auto;
     text-align: center;
+}
+
+.book #texts-gardening {
+    text-align: left !important;
 }
 
 #jump-to-nav {
