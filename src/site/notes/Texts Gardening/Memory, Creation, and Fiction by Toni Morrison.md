@@ -5,8 +5,7 @@
 
 # “Memory, Creation, and Fiction” by Toni Morrison
 
-***As published in "The Source of Self-Regard: Selected Essays, Speeches, and Meditations" by Toni Morrison, 2019***
-
+#### ***As published in "The Source of Self-Regard: Selected Essays, Speeches, and Meditations" by Toni Morrison, 2019***
 
 <a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
