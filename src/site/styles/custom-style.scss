@@ -87,7 +87,7 @@ h2 a, h3 a{
 }
 
 .book p{
-    text-indent: .5in;
+    text-indent: 1.5rem;
     line-height: 1.5;
     white-space: pre-wrap;
     font-size: 13pt;
@@ -113,7 +113,7 @@ h2 a, h3 a{
 }
 
 .book #jump-to-nav {
-    margin-left: -.5in;
+    margin-left: -1.5rem;
 }
 
 .book blockquote p {
@@ -181,6 +181,6 @@ a:hover {
 
 blockquote {
     border-left: 3px solid sienna !important;
-    padding-left: 0.25in !important;
-    margin-left: 0.25in !important;
+    padding-left: 0.75rem !important;
+    margin-left: 0.75rem !important;
 }
