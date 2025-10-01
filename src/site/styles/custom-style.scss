@@ -63,7 +63,11 @@ sup.footnote-ref a {
 }
     
 .footnote a{
-    font-size: 12pt !important
+    font-size: 12pt !important;
+}
+
+.footnote-item a {
+    color: blue !important;
 }
 
 h1 {
