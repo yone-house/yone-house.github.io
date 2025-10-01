@@ -103,8 +103,9 @@ h2 a, h3 a{
     text-align: left;
     margin-block-start: 1.25em;
     margin-block-end: 1.25em;
-    font-size: 1em;
-    font-weight: 400;
+    font-size: 1em !important;
+    font-weight: 400 !important;
+    text-decoration: none !important;
 }
 
 .book #texts-gardening {
