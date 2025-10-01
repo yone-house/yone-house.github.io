@@ -12,8 +12,7 @@
 
 ---
 
-<iframe id="iframe" style="width: 100%" src="https://yone.house/eales_loose_leaf_shuffler"></iframe>
-<script src="/scripts/iframe_resize.js"></script>
+<iframe id="iframe" style="width: 100vw; height: 80vh; border: 1px solid black; margin: 0 auto" src="https://yone.house/eales_loose_leaf_shuffler"></iframe>
 
 Eales, Lindsay. 2016. “Loose Leaf”. _Canadian Journal of Disability Studies_ 5 (3):58-76. https://doi.org/10.15353/cjds.v5i3.297.
 
