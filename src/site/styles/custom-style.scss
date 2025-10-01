@@ -118,12 +118,14 @@ h2 a, h3 a{
     outline-offset: 3px !important;
     text-shadow: none !important;
     text-decoration: underline;
+    color: blue !important;
 }
 
 #jump-to-nav:hover{
     text-decoration: underline;
     transform: scale(1.05);
     text-shadow: none !important;
+    color: blue !important;
 }
 
 a:focus {
