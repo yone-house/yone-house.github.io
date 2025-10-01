@@ -91,33 +91,36 @@ h2 a, h3 a{
 
 #jump-to-nav {
     color: blue !important;
-    text-align: right;
     display: block;
     text-decoration: none;
-    margin-bottom: -50px;
+    width: fit-content;
+    margin-left: auto;
     transition: transform .3s;
 }
 
 #jump-to-nav:focus{
-    outline: 2px solid red;
-    ouline-offset: 3px;
+    outline: 2px solid red !important;
+    border-radius: 2px;
+    outline-offset: 3px !important;
+    text-shadow: none !important;
+    text-decoration: underline;
 }
 
 #jump-to-nav:hover{
     text-decoration: underline;
     transform: scale(1.05);
+    text-shadow: none !important;
 }
 
 a:focus {
-    outline: 1px solid blue !important;
-    outline-offset: 2px;
-    text-shadow: 0 0 1px #967969 !important;
-    filter: drop-shadow(0 0 2px grey);
-    border-radius: 3px !important;
+    outline: 1px dotted red !important;
+    outline-offset: 3px;
+    text-shadow: 0 0 1px #967969;
+    border-radius: 2px !important;
 }
 
 a:hover {
-    text-shadow: 0 0 2px #967969 !important;
+    text-shadow: 0 0 1px #967969;
 }
 
 .theme-light {
