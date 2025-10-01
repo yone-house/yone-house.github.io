@@ -84,9 +84,19 @@ h2 a, h3 a{
     text-align: center;
 }
 
+.book h4 {
+    text-align: left;
+    margin-block-start: 1.25em;
+    margin-block-end: 1.25em;
+}
+
 .book #texts-gardening {
     text-align: left !important;
     margin: 15px 0 !important;
+}
+
+.book #jump-to-nav {
+    margin-left: -.5in;
 }
 
 #jump-to-nav {
@@ -94,7 +104,6 @@ h2 a, h3 a{
     display: block;
     text-decoration: none;
     width: fit-content;
-    float: right;
     transition: transform .3s;
 }
 
