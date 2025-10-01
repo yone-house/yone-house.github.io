@@ -33,8 +33,14 @@ li a.internal-link {
     color: blue !important;
 }
 
-sup.footnote-ref a{
-    font-size: 7pt !important;
+sup.footnote-ref a {
+    font-size: 8pt !important;
+    text-decoration: none;
+    color: blue !important;
+}
+
+.footnote-ref {
+    vertical-align: super;
 }
 
 @media (max-width: 738px) {
