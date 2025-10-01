@@ -33,6 +33,10 @@ li a.internal-link {
     color: blue !important;
 }
 
+sup.footnote-ref a{
+    font-size: 7pt !important;
+}
+
 @media (max-width: 738px) {
     h3 a.internal-link{
         font-size: 15pt !important;
