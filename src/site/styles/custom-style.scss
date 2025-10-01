@@ -99,12 +99,17 @@ h2 a, h3 a{
     margin-left: -.5in;
 }
 
+.book blockquote p {
+    text-indent: none !important;
+}
+
 #jump-to-nav {
     color: blue !important;
     display: block;
     text-decoration: none;
     width: fit-content;
     transition: transform .3s;
+    margin: 0 auto;
 }
 
 #jump-to-nav:focus{
