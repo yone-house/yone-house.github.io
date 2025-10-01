@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texts-gardening/memory-creation-and-fiction-by-toni-morrison/"}
+{"dg-publish":true,"permalink":"/texts-gardening/memory-creation-and-fiction-by-toni-morrison/","contentClasses":"book"}
 ---
 
 

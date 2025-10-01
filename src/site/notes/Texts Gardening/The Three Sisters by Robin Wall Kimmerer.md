@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/texts-gardening/the-three-sisters-by-robin-wall-kimmerer/"}
+{"dg-publish":true,"permalink":"/texts-gardening/the-three-sisters-by-robin-wall-kimmerer/","contentClasses":"book"}
 ---
 
 
 # The Three Sisters by Robin Wall Kimmerer
 
-**as published in *Braiding Sweetgrass* (2013)**
+#### as published in *Braiding Sweetgrass* (2013)
 
 <a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 

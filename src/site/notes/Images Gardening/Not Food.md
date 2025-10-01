@@ -5,9 +5,9 @@
 
 # Not Food
 
-<a id="jump-to-nav" href="#images-gardening">jump to page navigation ⇩</a>
-
 Things Google Photos thinks is food when I search for "food" in my camera roll. Some are understandable, most are not at all. 
+
+<a id="jump-to-nav" href="#images-gardening">jump to page navigation ⇩</a>
 
 ![IMG_6029.jpg](/img/user/Images%20Gardening/not%20food%20attachments/IMG_6029.jpg)
 ![IMG_3251.jpg](/img/user/Images%20Gardening/not%20food%20attachments/IMG_3251.jpg)

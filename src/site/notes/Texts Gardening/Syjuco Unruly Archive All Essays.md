@@ -9,7 +9,7 @@
 
 *it really sucks that this important book is not available in a digital format, but i understand that the full book is hard to translate to an online version.*
 
-*however, <a href="#html-markdown-version">i produced an html version of the essays displayed below the PDF that is somewhat accessible</a>. PDF is <span style="text-decoration: underline">not</span> text accessible *
+<i>however, <a href="#html-markdown-version">i produced an html version of the essays displayed below the PDF that is somewhat accessible</a>. PDF is <span style="text-decoration: underline">not</span> text accessible</i>
 
 <a id="jump-to-nav" tabindex="1" href="#texts-gardening">jump to page navigation ⇩</a>
 
