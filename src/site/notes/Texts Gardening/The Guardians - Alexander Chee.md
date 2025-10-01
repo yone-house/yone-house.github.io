@@ -293,4 +293,4 @@ I had written a novel that, after it was published, let me practice saying what 
 
 ---
 ## Texts Gardening
-### [[Texts Gardening/Memory, Creation, and Fiction by Toni Morrison\|previous page ⇽]] | [[Texts Gardening\|📖]] | [[Texts Gardening/Syjuco Unruly Archive All Essays\|⇾ next page]]
+### [[Texts Gardening/Memory, Creation, and Fiction by Toni Morrison\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Syjuco Unruly Archive All Essays\|⇾ next page]]
