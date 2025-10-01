@@ -17,6 +17,8 @@
 > 
 > —EDVARD MUNCH 
 
+&ensp;
+
 I LIKE that quotation, as I do many of the remarks painters make about their work, because it clarifies for me an aspect of creation that engages me as a writer. It suggests how that interior part of the growth of a writer (the part that is both separate and indistinguishable from craft) is connected not only to some purely local and localized sets of stimuli but also to memory: the painter can copy or reinterpret the stone—its lines, planes, or curves—but the stone that causes something to happen among children he must remember, because it is done and gone. As he sits before his sketchbook he remembers how the scene looked, but most importantly he remembers the specific milieu that accompanies the scene. 
 
 Along with the stone and the scattered children is an entire galaxy of feeling and impression—the motion and content of which may seem arbitrary, even incoherent, at first. 
