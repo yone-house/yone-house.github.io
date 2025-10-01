@@ -3,7 +3,7 @@
 ---
 
 
-# *The Guardians* by Alexander Chee
+# "The Guardians" by Alexander Chee
 
 #### as published in *How to Write an Autobiographical Novel* (2019)
 #### *annotated by me*

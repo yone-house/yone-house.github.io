@@ -246,4 +246,4 @@ The following morning, they had an early breakfast and placed their luggage in t
 ---
 
 ## Texts Gardening
-### [[Texts Gardening/Chee Blue Stoop 8-4-2025 Transcript\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Memory, Creation, and Fiction by Toni Morrison\|⇾ next page]]
+### [[Texts Gardening/Loose Leaf by Lindsay Eales\|previous page ⇽]] [[Texts Gardening\|📖]] [[Texts Gardening/Memory, Creation, and Fiction by Toni Morrison\|⇾ next page]]

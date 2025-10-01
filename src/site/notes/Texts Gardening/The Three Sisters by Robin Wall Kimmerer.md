@@ -3,7 +3,7 @@
 ---
 
 
-# The Three Sisters by Robin Wall Kimmerer
+# "The Three Sisters" by Robin Wall Kimmerer
 
 #### as published in *Braiding Sweetgrass* (2013)
 
