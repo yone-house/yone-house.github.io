@@ -4,9 +4,9 @@
 
 
 # The Three Sisters by Robin Wall Kimmerer
-as published in *Braiding Sweetgrass* (2013)
 
 <a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
+**as published in *Braiding Sweetgrass* (2013)**
 
 It should be them who tell this story. Corn leaves rustle with a signature sound, a papery conversation with each other and the breeze. On a hot day in July—when the corn can grow six inches in a single day—there is a squeak of internodes expanding, stretching the stem toward the light. Leaves escape their sheaths with a drawn-out creak and sometimes, when all is still, you can hear the sudden pop of ruptured pith when water-filled cells become too large and turgid for the confines of the stem. These are the sounds of being, but they are not the voice.
 

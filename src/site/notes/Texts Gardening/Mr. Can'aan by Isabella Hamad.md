@@ -4,9 +4,8 @@
 
 
 # "Mr. Can'aan" by Isabella Hamad
-https://rustedradishes.com/mr-canaan/
-
 <a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
+https://rustedradishes.com/mr-canaan/
 
 ## **I**
 It happened like this. A week after the Six Day War, Sam walked to the eastern bank of the Jordan River. He was working as a counselor that summer near Karameh at a day camp for boys. Although the fighting occurred further upstream, camp activities had been suspended until a few days before. Then came the ceasefire and the usual schedule resumed: soccer in the morning, literacy after lunch, assorted games in the afternoon, orange juice and croissants in plastic wrap, and a bus to take them back to the city. 
