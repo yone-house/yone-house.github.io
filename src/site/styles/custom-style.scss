@@ -75,10 +75,6 @@ h2 a, h3 a{
     margin: 0;
 }
 
-.book p a{
-    margin-left: -.5in;
-}
-
 .book h2 {
     margin: 100px auto 30px auto;
     text-align: center;
@@ -86,6 +82,7 @@ h2 a, h3 a{
 
 .book #jump-to-nav {
     margin-top: 15px !important;
+    margin-left: -.5in !important;
 }
 
 .book #texts-gardening {
