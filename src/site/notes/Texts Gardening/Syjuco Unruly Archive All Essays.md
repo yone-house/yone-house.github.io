@@ -5,15 +5,13 @@
 
 # All Essays in *Unruly Archive* by Stephanie Syjuco
 
-<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
-
 *this is one of my favorite books of art/scholarship of all time. if you like these essays i really suggest buying the [actual book from Radius Books](https://www.stephaniesyjuco.com/projects/stephanie-syjuco-the-unruly-archive-monograph-with-radius-books), if you can&mdash;there is so much more to it than just these essays.*
 
 *it really sucks that this important book is not available in a digital format, but i understand that the full book is hard to translate to an online version.*
 
-
-
 *however, <a href="#html-markdown-version">i produced an html version of the essays displayed below the PDF that is somewhat accessible</a>. PDF is <span style="text-decoration: underline">not</span> text accessible *
+
+<a id="jump-to-nav" tabindex="1" href="#texts-gardening">jump to page navigation ⇩</a>
 
 ---
 ## [PDF Version (scanned with phone)](https://drive.google.com/file/d/18PvEKEMVrvGPviMxg7FfU0FwX-miogWh/view?usp=drive_link)

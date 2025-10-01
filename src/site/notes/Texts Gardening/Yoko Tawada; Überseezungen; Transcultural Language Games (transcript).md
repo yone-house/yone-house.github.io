@@ -5,12 +5,12 @@
 
 # Yoko Tawada; Überseezungen; Transcultural Language Games (transcript) 
 
-<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
-
 (University of Arizona, 2006-02-10)
 [Link to webpage with videos](https://voca.arizona.edu/reading/yoko-tawada-february-10-2006)
 
 In this performance, titled "Überseezungen: Transcultural Language Games," Yoko Tawada and translator Bettina Brandt read a series of meditations on language drawn from fragments of Tawada's poetry and prose. This performance is given primarily in English, German, and Japanese.
+
+<a id="jump-to-nav" tabindex="1" href="#texts-gardening">jump to page navigation ⇩</a>
 
 ---
 ## Introduction

@@ -4,10 +4,11 @@
 
 
 # *The Guardians* by Alexander Chee
-<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
 **as published in *How to Write an Autobiographical Novel* (2019)**
 *annotated by me*
+
+<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
 ## 1
 

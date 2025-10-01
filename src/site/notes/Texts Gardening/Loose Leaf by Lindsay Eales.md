@@ -5,9 +5,9 @@
 
 # "Loose Leaf" by Lindsay Eales
 
-<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
-
 *formatting works best on desktop or mobile landscape view*
+
+<a id="jump-to-nav" href="#texts-gardening">jump to page navigation ⇩</a>
 
 <iframe style="width: 100%; height: 70vh" src="https://yone.house/eales_loose_leaf_shuffler"></iframe>
 
