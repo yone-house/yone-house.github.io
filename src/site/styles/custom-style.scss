@@ -116,8 +116,8 @@ h2 a, h3 a{
     margin-left: -.5in;
 }
 
-.book blockquote {
-    text-indent: none !important;
+.book blockquote p {
+    text-indent: 0 !important;
 }
 
 #jump-to-nav {
