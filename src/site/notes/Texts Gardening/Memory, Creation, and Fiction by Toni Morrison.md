@@ -13,6 +13,8 @@
 
 > It is not enough for a work of art to have ordered planes and lines. If a stone is tossed at a group of children, they hasten to scatter. A regrouping, an action, has been accomplished. This is composition. This regrouping, presented by means of color, lines, and planes is an artistic and painterly motif. 
 > 
+> &ensp;
+> 
 > —EDVARD MUNCH 
 
 I LIKE that quotation, as I do many of the remarks painters make about their work, because it clarifies for me an aspect of creation that engages me as a writer. It suggests how that interior part of the growth of a writer (the part that is both separate and indistinguishable from craft) is connected not only to some purely local and localized sets of stimuli but also to memory: the painter can copy or reinterpret the stone—its lines, planes, or curves—but the stone that causes something to happen among children he must remember, because it is done and gone. As he sits before his sketchbook he remembers how the scene looked, but most importantly he remembers the specific milieu that accompanies the scene. 
